@@ -3,9 +3,12 @@
 -  I'm working as Data Engineer but I do some other stuff too!
 
 <h2> 👩‍💻 Machine Learning Projects:</h2>
-  - [Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)  
-  - [Action Recognition en videos](https://github.com/pilarcode/action-recognition-in-videos)
-
+<p>
+  - <b> Pose estimation</b>
+    - [Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)  
+  - <b> Action Recognition </b>
+    - [Action Recognition en videos](https://github.com/pilarcode/action-recognition-in-videos)
+</p>
 
 <p align="center">
   <img src="https://github.com/pilarcode/pilarcode/blob/main/images/tools.png">
