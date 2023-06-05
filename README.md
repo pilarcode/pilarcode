@@ -12,8 +12,6 @@
  
  - <b>Entities extraction from images </b> [OCR](https://github.com/pilarcode/receipt-ocr)   
     
-   # ![action recognition example of inference](https://github.com/pilarcode/demos/blob/main/images/action_recognition.png)
-   # ![Pose Estimation](https://github.com/pilarcode/human_pose_estimation/blob/main/docs/output.png)
     
 -  I'm working as Data Engineer but I do some other stuff too!
 <p align="center">
