@@ -3,6 +3,7 @@
 -  I'm working as Data Engineer but I do some other stuff too!
 
 <h2> 👩‍💻 Machine Learning Projects:</h2>
+
  - <b>Pose estimation</b>
  - [Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)  
  - <b>Action Recognition</b>
