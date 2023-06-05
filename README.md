@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h1>
+  i'm working as Data Engineer but i do some other stuff too :hammer:
+</h1>
+<p align="center">
+  <img src="https://github.com/pilarcode/pilarcode/blob/main/images/tools.png">
+</p>
+
 <!--
 **pilarcode/pilarcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
