@@ -1,12 +1,10 @@
 ### Hi there 👋
 -  I’m currently learning about Large Language Models and Generative AI.
--  I'm working as Data Engineer but I do some other stuff too 👩‍💻
+-  I'm working as Data Engineer but I do some other stuff too!
 
-<h2>👨‍💻 Machine Learning Projects:</h2>
-- <b> Pose Estimation</b>
-  - [Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)
-- <b> Action Recognition </b>
-  - [Action Recognition en videos ](https://github.com/pilarcode/action-recognition-in-videos)
+<h2> 👩‍💻 Machine Learning Projects:</h2>
+- [Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)
+- [Action Recognition en videos ](https://github.com/pilarcode/action-recognition-in-videos)
 
 Proyecto para probar la libreria media Pipe para la estimación de la pose tanto en imágenes como en videos.
   -
