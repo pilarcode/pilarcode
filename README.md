@@ -19,4 +19,7 @@ I’m currently learning about Large Language Models and Generative AI.
 </p>
 
 - Connect with me
-<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/znpm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/znpm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/znpm/simple-icons@v3/icons/instagram.svg" />
+
