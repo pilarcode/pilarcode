@@ -3,7 +3,7 @@
 
 
 <h2> 👩‍💻 Machine Learning Projects:</h2>
- - <b>Datamecum datathon - Binary classification on tabular data</b> [datathon]([https://github.com/pilarcode/pose_estimation/](https://github.com/pilarcode/arandanos))  
+ - <b>Datamecum datathon - Binary classification on tabular data</b> [datathon](https://github.com/pilarcode/arandanos)  
    ![Arandanos] (https://github.com/pilarcode/arandanos/blob/main/images/portada.png)
 
  - <b>Pose estimation</b> [Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)  
