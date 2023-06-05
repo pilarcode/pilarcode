@@ -4,8 +4,10 @@
 
 <h2> 👩‍💻 Machine Learning Projects:</h2>
 
- - <b>Pose estimation</b>[Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)  
+ - <b>Pose estimation</b> [Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)  
+  - ![Pose Estimation](https://github.com/pilarcode/human_pose_estimation/blob/main/docs/output.png)
  - <b>Action Recognition</b> [Action Recognition en videos](https://github.com/pilarcode/action-recognition-in-videos)
+  - ![action recognition example of inference](/images/action_recognition.png)
     
 <p align="center">
   <img src="https://github.com/pilarcode/pilarcode/blob/main/images/tools.png">
