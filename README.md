@@ -4,7 +4,7 @@ I’m currently learning about Large Language Models and Generative AI.
 
 <h2> 👩‍💻 Machine Learning Projects:</h2>
 
- - <b> Binary classification on tabular data</b> [datathon](https://github.com/pilarcode/arandanos/)  
+ - <b> Datamecum Datathon </b> [Binary classification on tabular data](https://github.com/pilarcode/arandanos/)  
  
  - <b>Pose estimation</b> [Pose landmarks detection task](https://github.com/pilarcode/pose_estimation/)  
  
