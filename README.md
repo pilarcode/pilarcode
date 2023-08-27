@@ -14,12 +14,11 @@ I’m currently learning about Large Language Models and Generative AI.
  
  - <b>Entities extraction from images </b> [OCR](https://github.com/pilarcode/receipt-ocr)   
     
-
-    
+<!--
 <h2> 💻 I'm working as Data Engineer but I do some other stuff too!</h2>
 <p align="center">
   <img src="https://github.com/pilarcode/pilarcode/blob/main/images/tools.png">
-</p>
+</p> -->
 
 
 <h2>  ☎️ Connect with me:</h2>
