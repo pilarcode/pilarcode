@@ -1,7 +1,10 @@
 ### Hi there 👋
 I’m currently learning about Large Language Models and Generative AI.
+<a href="https://www.linkedin.com/in/pilarmadariaga/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!--
 
