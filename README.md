@@ -2,12 +2,12 @@
 I’m currently learning about Large Language Models and Generative AI.  
 
 
-| 🧪 Projects | 📢 Talks | 👩‍💻 Datathon | 🎓 Education
+| 🧪 Projects | 📢 Talks | 👩‍💻 Datathon 
 | ------------- | ------------- |--------------- |---------------|
-|[Chatbot - FiFa](https://github.com/pilarcode/Fifa) | Content Cell  |
-|[Action Recognition](https://github.com/pilarcode/action-recognition-in-videos) | Content Cell  |
-|[Named Entity Recognition](https://github.com/pilarcode/receipt-ocr)| 
-|[Pose estimation](https://github.com/pilarcode/pose_estimation)|
+|[Chatbot - FiFa](https://github.com/pilarcode/Fifa) |[Getting stared with LLM - GFT Women Tech Program](https://github.com/pilarcode/pilarcode/blob/main/GenerativeAI_with_LLMS_WomenTechProgram_Talk_2023_PilarMadariaga.pdf)  | [Datamecum](https://github.com/pilarcode/arandanos/blob/main/datathon_datamecum.pdf)|
+|[Action Recognition](https://github.com/pilarcode/action-recognition-in-videos) | [Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)  | [Binary Classifier - Datamecum Datathon](https://github.com/pilarcode/arandanos)|
+|[Named Entity Recognition](https://github.com/pilarcode/receipt-ocr)| | |
+|[Pose estimation](https://github.com/pilarcode/pose_estimation)| | |
 
 
 🧪 Projects
