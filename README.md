@@ -1,6 +1,15 @@
 ### Hi there 👋
 I’m currently learning about Large Language Models and Generative AI.  
 
+
+| 🧪 Projects | 📢 Talks | 👩‍💻 Datathon | 🎓 Education
+| ------------- | ------------- |--------------- |---------------|
+|[Chatbot - FiFa](https://github.com/pilarcode/Fifa) | Content Cell  |
+|[Action Recognition](https://github.com/pilarcode/action-recognition-in-videos) | Content Cell  |
+|[Named Entity Recognition](https://github.com/pilarcode/receipt-ocr)| 
+|[Pose estimation](https://github.com/pilarcode/pose_estimation)|
+
+
 🧪 Projects
 - [Chatbot - FiFa](https://github.com/pilarcode/Fifa)
 - [Action Recognition](https://github.com/pilarcode/action-recognition-in-videos)
