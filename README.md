@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m currently learning about Large Language Models and Generative AI.  
 
-👩‍💻 Projects
+🧪 Projects
 - [Chatbot - FiFa](https://github.com/pilarcode/Fifa)
 - [Action Recognition](https://github.com/pilarcode/action-recognition-in-videos)
 - [Named Entity Recognition](https://github.com/pilarcode/receipt-ocr)
@@ -14,6 +14,9 @@ I’m currently learning about Large Language Models and Generative AI.
 - [Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)
 - [Reconociendo la actividad humana en videos](https://github.com/pilarcode/action-recognition-in-videos/blob/master/docs/Presentacion_TFM_Unir_PilarMadariaga.pdf)
 - [Women'sDay](https://github.com/pilarcode/pilarcode/blob/main/WomensDay_2022_Alicante.pdf)
+
+👩‍💻 Datathon
+- [Datamecum](https://github.com/pilarcode/arandanos/blob/main/datathon_datamecum.pdf)
 <!--
 
 <h2> 💻 I'm working as Data Engineer but I do some other stuff too!</h2>
