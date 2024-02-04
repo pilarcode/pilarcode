@@ -8,7 +8,7 @@ I’m currently learning about Large Language Models and Generative AI.
 
 |📢 Talks      |
 | -------------|
-| [Getting stared with LLM - GFT Women Tech Program](https://github.com/pilarcode/pilarcode/blob/main/GenerativeAI_with_LLMS_WomenTechProgram_Talk_2023_PilarMadariaga.pdf)|
+|[Getting stared with LLM](https://github.com/pilarcode/pilarcode/blob/main/GenerativeAI_with_LLMS_WomenTechProgram_Talk_2023_PilarMadariaga.pdf)|
 |[Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)|
 |[Reconociendo la actividad humana en videos](https://github.com/pilarcode/action-recognition-in-videos/blob/master/docs/Presentacion_TFM_Unir_PilarMadariaga.pdf)|
 |[Women'sDay](https://github.com/pilarcode/pilarcode/blob/main/WomensDay_2022_Alicante.pdf)|
