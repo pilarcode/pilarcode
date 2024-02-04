@@ -8,6 +8,7 @@ I’m currently learning about Large Language Models and Generative AI.
 |[Action Recognition](https://github.com/pilarcode/action-recognition-in-videos) | 
 |[Named Entity Recognition](https://github.com/pilarcode/receipt-ocr)|
 |[Pose estimation](https://github.com/pilarcode/pose_estimation)|
+|[Datamecum](https://github.com/pilarcode/arandanos/blob/main/datathon_datamecum.pdf)|
 
 |📢 Talks      |
 | -------------|
@@ -16,9 +17,7 @@ I’m currently learning about Large Language Models and Generative AI.
 |[Reconociendo la actividad humana en videos](https://github.com/pilarcode/action-recognition-in-videos/blob/master/docs/Presentacion_TFM_Unir_PilarMadariaga.pdf)|
 |[Women'sDay](https://github.com/pilarcode/pilarcode/blob/main/WomensDay_2022_Alicante.pdf)|
 
-|👩‍💻 Datathon|
-| -------------|
-|[Datamecum](https://github.com/pilarcode/arandanos/blob/main/datathon_datamecum.pdf)|
+
 
 <!--
 
