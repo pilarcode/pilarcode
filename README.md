@@ -1,7 +1,6 @@
 ### Hi there 👋
 I’m currently learning about Large Language Models and Generative AI. 
 
-presentaciones/GFTmeets - Session 263 - Cloud Series, Ep. V - Vertex AI from 10000 ft.pdf
 |[Getting stared with LLM](https://github.com/pilarcode/pilarcode/blob/9325c40cbea09122944d46f09fba16216571e6ae/presentaciones/GenerativeAI_LLM_getting_started.pdf)|
 |[Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)|
 |[Reconociendo la actividad humana en videos](https://github.com/pilarcode/action-recognition-in-videos/blob/master/docs/Presentacion_TFM_Unir_PilarMadariaga.pdf)|
