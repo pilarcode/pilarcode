@@ -8,8 +8,6 @@ I’m currently working on GenAI projects and learning how to deploy them on pro
 |[Women'sDay](https://github.com/pilarcode/pilarcode/blob/9325c40cbea09122944d46f09fba16216571e6ae/presentaciones/WomensDay_2022_Alicante.pdf)|
 
 
-![image](https://github.com/pilarcode/pilarcode/assets/13519104/db16b1b9-a289-4f16-96c8-b97de75cf131)
-
 <!--
 
 | 🧪 WIP Projects | 
