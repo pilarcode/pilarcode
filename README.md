@@ -1,5 +1,6 @@
 ### Hi there 👋
-I’m currently learning about Large Language Models and Generative AI. 
+I’m currently working on GenAI projects and learning how to deploy them on production!
+📢 #WomenInTech #LLMs #GenerativeAI #STEM 
 
 |[Getting stared with LLM](https://github.com/pilarcode/pilarcode/blob/9325c40cbea09122944d46f09fba16216571e6ae/presentaciones/GenerativeAI_LLM_getting_started.pdf)|
 |[Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)|
