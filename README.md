@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on GenAI projects and learning how to deploy them on production!
+I’m currently working on GenAI projects to generate code!
 
 
 
