@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m currently working on GenAI projects to generate code!
-
+https://github.com/pilarcode/genai_code
 
 
 <!--
