@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on GenAI projects to generate code!
+I’m currently learning on GenAI to generate code!
 https://github.com/pilarcode/genai_code
 
 
