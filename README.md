@@ -2,6 +2,8 @@
 I’m currently learning on GenAI to generate code!
 https://github.com/pilarcode/genai_code
 
+![remote-office-3d-rendering-concept-illustration (1)](https://github.com/user-attachments/assets/e492c2bd-1162-45b5-8561-4317a242969c)
+
 
 <!--
 📢|[Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)|
