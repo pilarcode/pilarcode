@@ -2,7 +2,7 @@
 I’m currently learning on GenAI to generate code!
 https://github.com/pilarcode/genai_code
 
-![remote-office-3d-rendering-concept-illustration (1)](https://github.com/user-attachments/assets/e492c2bd-1162-45b5-8561-4317a242969c)
+
 
 
 <!--
@@ -26,5 +26,5 @@ https://github.com/pilarcode/genai_code
   <img src="https://github.com/pilarcode/pilarcode/blob/main/images/tools.png">
 </p>
 
-
+![remote-office-3d-rendering-concept-illustration (1)](https://github.com/user-attachments/assets/e492c2bd-1162-45b5-8561-4317a242969c)
 -->
