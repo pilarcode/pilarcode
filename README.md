@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently learning on GenAI to generate code!
+I’m currently learning on AI Coding Agents, Multi-agents, AI Safety, and Agentic Systems!
 https://github.com/pilarcode/genai_code
 
 
