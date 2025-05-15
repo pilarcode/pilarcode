@@ -11,6 +11,7 @@ I’m currently learning on AI Coding Agents, Multi-agents, AI Safety, and Agent
 - Model Context Protocol (MCP) https://modelcontextprotocol.io/introduction
 - Agent to Agent Protocol (A2A) https://google.github.io/A2A/#/
 - Agent User Interaction Protocol (AG-UI) https://docs.ag-ui.com/introduction
+- Agent Network Protocol (ANP) https://agent-network-protocol.com/
 
 
 #### 🧠 List of most popular frameworks
