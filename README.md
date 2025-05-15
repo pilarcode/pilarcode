@@ -29,19 +29,6 @@ I’m currently learning on AI Coding Agents, Multi-agents, AI Safety, and Agent
 - Atomic Agents https://github.com/BrainBlend-AI/atomic-agents
 - TapeAgents https://servicenow.github.io/TapeAgents/quickstart/
 
-#### 👨🏻‍💻 Smart code assistance
-- Google studio ai https://aistudio.google.com/
-- Copilot Studio https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/
-- Amazon Q Developer https://aws.amazon.com/es/q/developer/
-- OpenAI Codex CLI https://github.com/openai/codex
-- Claude Code https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
-- Replit https://replit.com/
-- Windsurf https://windsurf.com/editor
-- Cursor https://www.cursor.com/
-- Cline https://cline.bot/
-- Pythagora https://www.pythagora.ai/
-- Qodo https://www.qodo.ai/
-- Gitlab Duo https://about.gitlab.com/gitlab-duo/
 
 <!--
 📢|[Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)|
