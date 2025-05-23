@@ -4,6 +4,7 @@
 - PydanticAI  https://ai.pydantic.dev/
 - Google ADK https://github.com/google/adk-python
 - AWS Agent Squad https://awslabs.github.io/agent-squad/general/introduction/
+- Strands Agents SDK https://strandsagents.com/0.1.x/
 - Nvidia Agent Intelligence Toolkit https://developer.nvidia.com/agent-intelligence-toolkit
 - OpenAI Agents https://openai.github.io/openai-agents-python/
 - CrewAI https://docs.crewai.com/introduction
@@ -12,3 +13,5 @@
 - Agno https://github.com/agno-agi/agno
 - Atomic Agents https://github.com/BrainBlend-AI/atomic-agents
 - TapeAgents https://servicenow.github.io/TapeAgents/quickstart/
+- Airweave https://docs.airweave.ai/welcome
+- CopilotKit https://docs.copilotkit.ai/coagents
