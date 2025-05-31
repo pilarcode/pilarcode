@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Vibe Coding & Smart code assistance
+ 👨🏻‍💻 Vibe Coding &  Coding Assistants
 
 - [Google Studio AI](https://aistudio.google.com/)[Google Studio AI](https://aistudio.google.com/)
 - [Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/)[Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/)
