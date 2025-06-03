@@ -11,8 +11,11 @@
 - HuggingFace Smolagents https://huggingface.co/docs/smolagents/en/index
 - LlamaIndex https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/#multi-agent-systems
 - Agno https://github.com/agno-agi/agno
+- HumanLayer https://www.humanlayer.dev/
 - Controlflow https://controlflow.ai/welcome
 - Atomic Agents https://github.com/BrainBlend-AI/atomic-agents
 - TapeAgents https://servicenow.github.io/TapeAgents/quickstart/
 - Airweave https://docs.airweave.ai/welcome
 - CopilotKit https://docs.copilotkit.ai/coagents
+- Mastra https://mastra.ai/ [The TypeScript Agent Framework
+](https://mastra.ai/en/docs)
