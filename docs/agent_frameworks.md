@@ -17,5 +17,5 @@
 - TapeAgents https://servicenow.github.io/TapeAgents/quickstart/
 - Airweave https://docs.airweave.ai/welcome
 - CopilotKit https://docs.copilotkit.ai/coagents
-- Mastra https://mastra.ai/ [The TypeScript Agent Framework
+- Mastra [The TypeScript Agent Framework
 ](https://mastra.ai/en/docs)
