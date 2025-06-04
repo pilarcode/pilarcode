@@ -17,6 +17,6 @@
 - TapeAgents https://servicenow.github.io/TapeAgents/quickstart/
 - Airweave https://docs.airweave.ai/welcome
 - CopilotKit https://docs.copilotkit.ai/coagents
-- Mastra [The TypeScript Agent Framework](https://mastra.ai/en/docs)
-- LangBase [Langbase is the most powerful serverless AI cloud for building and deploying AI agents.](https://mastra.ai/en/docs](https://langbase.com/docs)
+- Mastra https://mastra.ai/en/docs
+- LangBase https://langbase.com/docs
 - PandaAGI https://github.com/sinaptik-ai/panda-agi
