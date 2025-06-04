@@ -19,3 +19,4 @@
 - CopilotKit https://docs.copilotkit.ai/coagents
 - Mastra [The TypeScript Agent Framework
 ](https://mastra.ai/en/docs)
+- PandaAGI https://github.com/sinaptik-ai/panda-agi
