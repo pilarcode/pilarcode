@@ -2,7 +2,7 @@
 I’m currently learning on AI Coding Agents, Multi-agents, AI Safety, and Agentic Systems!
 
 - 🔥 [AI Agents & Hot Topics](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_ui.md)
-- 🚀[AI Protocols](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_protocols.md)
+- 🚀[AI Agents Protocol](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_protocols.md)
 - 🧠[Agents frameworks](https://github.com/pilarcode/pilarcode/blob/main/docs/agent_frameworks.md)
 - 🧪[Observability and Evals](https://github.com/pilarcode/pilarcode/blob/main/docs/observability.md)
 - 👨🏻‍💻[Vibe Coding & Coding Assistants](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_coding.md)
