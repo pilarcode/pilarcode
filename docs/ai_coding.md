@@ -3,6 +3,7 @@
 - [Google Studio AI](https://aistudio.google.com/)[Google Studio AI](https://aistudio.google.com/)
 - [Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/)[Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/)
 - [Amazon Q Developer](https://aws.amazon.com/es/q/developer/)[Amazon Q Developer](https://aws.amazon.com/es/q/developer/)
+- [Gemini-Cli](https://github.com/google-gemini/gemini-cli)
 - [OpenAI Codex CLI](https://github.com/openai/codex)[OpenAI Codex CLI](https://github.com/openai/codex)
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 - [Replit](https://replit.com/)[Replit](https://replit.com/)
@@ -14,3 +15,4 @@
 - [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)[Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
 - [Code Server](https://github.com/coder/code-server)Run VS Code on any machine anywhere and access it in the browser.
 - [Coder](https://coder.com/) VS Code in the browser
+
