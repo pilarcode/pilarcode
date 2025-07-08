@@ -4,7 +4,7 @@
 - PydanticAI  https://ai.pydantic.dev/
 - Google ADK https://github.com/google/adk-python
 - AWS Agent Squad https://awslabs.github.io/agent-squad/general/introduction/
-- Strands Agents SDK https://strandsagents.com/0.1.x/
+- Strands Agents SDK https://strandsagents.com/0.1.x/](https://strandsagents.com/latest/
 - Nvidia Agent Intelligence Toolkit https://developer.nvidia.com/agent-intelligence-toolkit
 - OpenAI Agents https://openai.github.io/openai-agents-python/
 - CrewAI https://docs.crewai.com/introduction
