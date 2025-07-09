@@ -2,7 +2,7 @@
 
 - [Google Studio AI](https://aistudio.google.com/)
 - [Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/)
-- [Amazon Q Developer](https://aws.amazon.com/es/q/developer/)[Amazon Q Developer](https://aws.amazon.com/es/q/developer/)
+- [Amazon Q Developer](https://aws.amazon.com/es/q/developer/)
 - [OpenCode](https://github.com/opencode-ai/opencode)
 - [Gemini-Cli](https://github.com/google-gemini/gemini-cli)
 - [OpenAI Codex CLI](https://github.com/openai/codex)
