@@ -8,4 +8,5 @@
 - Manus https://manus.im/?index=1
 - Claude https://claude.ai/login?returnT
 - agenticSeek  https://github.com/Fosowl/agenticSeek (Fully Local Manus AI).
+- Comet web broweser from Perplexity https://comet.perplexity.ai/
 
