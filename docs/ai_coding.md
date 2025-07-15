@@ -18,5 +18,5 @@
 - [Coder](https://coder.com/) VS Code in the browser
 
  👨🏻‍💻 Agentic Workflows
- - n8n  https://n8n.io/
- - simstudio https://www.simstudio.ai/
+ - [n8n](https://n8n.io/)
+ - [simstudio](https://www.simstudio.ai)
