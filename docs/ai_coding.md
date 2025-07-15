@@ -17,3 +17,6 @@
 - [Code Server](https://github.com/coder/code-server)Run VS Code on any machine anywhere and access it in the browser.
 - [Coder](https://coder.com/) VS Code in the browser
 
+ 👨🏻‍💻 Agentic Workflows
+ - n8n  https://n8n.io/
+ - simstudio https://www.simstudio.ai/
