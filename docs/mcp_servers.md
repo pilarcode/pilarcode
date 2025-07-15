@@ -9,6 +9,9 @@
 - [Docker Mcp](https://hub.docker.com/u/mcp)
 - [Microsoft teams Mpc](https://github.com/inditextech/mcp-teams-server)
 
+# Mcp Inspector
+- [Install the Mcp Inspector](https://github.com/modelcontextprotocol/inspector)
+  
 # Mcp Marketplaces
 - https://mcpmarket.com/es
 - https://mcp.so/
