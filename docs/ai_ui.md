@@ -1,4 +1,4 @@
-# 🔥 AI Agents & Hot Topics
+# 🔥 Computer User Agents & Web Browser Agents
 - CUA https://openai.com/index/computer-using-agent/
 - UI-TARS https://github.com/bytedance/UI-TARS-desktop
 - OpenWebUI https://openwebui.com/
