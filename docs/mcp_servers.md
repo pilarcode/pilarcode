@@ -8,7 +8,7 @@
 - [Cline MarketPlace](https://github.com/cline/mcp-marketplace)
 - [Docker](https://hub.docker.com/u/mcp)
 - [Microsoft teams](https://github.com/inditextech/mcp-teams-server)
-- [Composion ](https://mcp.composio.dev/)
+- [Composio ](https://mcp.composio.dev/)
 
 # Mcp Inspector
 - [Install the Mcp Inspector](https://github.com/modelcontextprotocol/inspector)
