@@ -2,12 +2,13 @@
 
 # MCP Server
 
-- [LlamaCloud MCP server](https://github.com/run-llama/llamacloud-mcp): LlamaCloud as an MCP server
-- [Github MCP Server](https://github.com/github/github-mcp-server)
-- [Cursor MCP server](https://cursor.directory/mcp)
-- [Cline MCP MarketPlace](https://github.com/cline/mcp-marketplace)
-- [Docker Mcp](https://hub.docker.com/u/mcp)
-- [Microsoft teams Mpc](https://github.com/inditextech/mcp-teams-server)
+- [LlamaCloud](https://github.com/run-llama/llamacloud-mcp): LlamaCloud as an MCP server
+- [Github](https://github.com/github/github-mcp-server)
+- [Cursor](https://cursor.directory/mcp)
+- [Cline MarketPlace](https://github.com/cline/mcp-marketplace)
+- [Docker](https://hub.docker.com/u/mcp)
+- [Microsoft teams](https://github.com/inditextech/mcp-teams-server)
+- [Composion ](https://mcp.composio.dev/)
 
 # Mcp Inspector
 - [Install the Mcp Inspector](https://github.com/modelcontextprotocol/inspector)
@@ -19,3 +20,4 @@
 - https://www.hubmcp.dev/
 - https://www.mcpworld.com/
 - https://www.pulsemcp.com/
+
