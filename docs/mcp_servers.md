@@ -9,6 +9,7 @@
 - [Docker](https://hub.docker.com/u/mcp)
 - [Microsoft teams](https://github.com/inditextech/mcp-teams-server)
 - [Composio ](https://mcp.composio.dev/)
+- [Mcp-genmedia](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main/experiments/mcp-genmedia)
 
 # Mcp Inspector
 - [Install the Mcp Inspector](https://github.com/modelcontextprotocol/inspector)
