@@ -1,7 +1,7 @@
 
 
 
-# 🧪 Agents and LLM Apps Observability 
+# 🧪 Agents and LLM Observability 
 
  Great evals start with great observability
 
