@@ -14,6 +14,7 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [textual web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [pytermgui](https://github.com/bczsalba/pytermgui)
 - [ratatui](https://github.com/ratatui/ratatui)
+- [termite](https://github.com/shobrook/termite)
 
 # Command line tools
 
