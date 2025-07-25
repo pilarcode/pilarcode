@@ -1,12 +1,12 @@
 
-# Terminal user interfaces libraries (TUI)
+## Terminal user interfaces libraries (TUI)
 
 A Terminal User Interface is, in general terms, a GUI in your terminal.
 
 - [Examples](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
 
 
-# libraries to build TUIs 
+#### Libraries & Frameworks to build TUIs 
 
 - [bubbletea](https://github.com/charmbracelet/bubbletea)
 - [rich](https://github.com/Textualize/rich)
@@ -16,7 +16,7 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [ratatui](https://github.com/ratatui/ratatui)
 - [termite](https://github.com/shobrook/termite)
 
-# Command line tools
+#### Command line tools
 
 - [frezee](https://github.com/charmbracelet/freeze) Generate images of code and terminal output.
 - [glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz.
