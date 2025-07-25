@@ -15,6 +15,7 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [pytermgui](https://github.com/bczsalba/pytermgui)
 - [ratatui](https://github.com/ratatui/ratatui)
 - [termite](https://github.com/shobrook/termite)
+- [py_cui](https://github.com/jwlodek/py_cui)
 
 #### Command line tools
 
