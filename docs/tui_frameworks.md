@@ -21,5 +21,6 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 
 - [frezee](https://github.com/charmbracelet/freeze) Generate images of code and terminal output.
 - [glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz.
+- [litter](https://github.com/tuxcanfly/litter) A lightweight terminal-based read-only browser
 
 
