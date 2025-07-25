@@ -1,7 +1,12 @@
 
-# Terminal user interfaces libraries
+# Terminal user interfaces libraries (TUI)
 
 A Terminal User Interface is, in general terms, a GUI in your terminal.
+
+- [Examples](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
+
+
+# libraries to build TUIs 
 
 - [bubbletea](https://github.com/charmbracelet/bubbletea)
 - [rich](https://github.com/Textualize/rich)
