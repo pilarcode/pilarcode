@@ -8,7 +8,9 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [upiano](https://github.com/eliasdorneles/upiano) A piano in your terminal.
 
 #### Libraries & Frameworks to build TUIs 
-- [Plotext](https://github.com/piccolomo/plotext) Plotting on terminal
+- [Plotext](https://github.com/piccolomo/plotext) Plot images (including GIFs) and stream video with audio (including YouTube) in your terminal.
+- [Textual-Plotext](https://pypi.org/project/textual-plotext/) A Textual widget wrapper for the Plotext plotting library.
+it can save plots as text or as colored html,
 - [rich](https://github.com/Textualize/rich) Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [rich-pixels](https://github.com/darrenburns/rich-pixels) A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 - [textual](https://github.com/Textualize/textual)  Build sophisticated user interfaces with a simple Python API. 
