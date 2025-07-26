@@ -15,8 +15,9 @@
 - [Coder](https://coder.com/) Secure environments for developers and their agents.
 - [Visual Code for the web](https://vscode.dev). Terminals are not available in the web version.
 - [CodeShare](https://codeshare.io/) Share code in real time
-- [Colab](https://colab.research.google.com/)
-- [Jupyter Lab](https://jupyter.org/try-jupyter/lab/)
+- [onlineide](https://www.onlineide.pro/) Share playground
+- [Colab](https://colab.research.google.com/) Colab Notebooks 
+- [Jupyter Lab](https://jupyter.org/try-jupyter/lab/) Jupyter Notbooks
 
   
  👨🏻‍💻 AI IDE
