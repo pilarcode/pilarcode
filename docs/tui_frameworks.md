@@ -3,10 +3,6 @@
 
 A Terminal User Interface is, in general terms, a GUI in your terminal.
 
-- [Examples](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
-- [textual-imageview](https://github.com/adamviola/textual-imageview)A simple terminal-based image viewer.
-- [upiano](https://github.com/eliasdorneles/upiano) A piano in your terminal.
-
 #### Libraries & Frameworks to build TUIs 
 - [Plotext](https://github.com/piccolomo/plotext) Plot images (including GIFs) and stream video with audio (including YouTube) in your terminal.
 - [Textual-Plotext](https://pypi.org/project/textual-plotext/) A Textual widget wrapper for the Plotext plotting library.
@@ -23,6 +19,10 @@ it can save plots as text or as colored html,
 
 #### Command line tools
 
+- [Awesome cli apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
+- [Awesome textualize projects](https://github.com/oleksis/awesome-textualize-projects)
+- [textual-imageview](https://github.com/adamviola/textual-imageview)A simple terminal-based image viewer.
+- [upiano](https://github.com/eliasdorneles/upiano) A piano in your terminal.
 - [frezee](https://github.com/charmbracelet/freeze) Generate images of code and terminal output.
 - [glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz.
 - [litter](https://github.com/tuxcanfly/litter) A lightweight terminal-based read-only browser
