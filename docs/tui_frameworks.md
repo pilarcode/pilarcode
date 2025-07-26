@@ -29,6 +29,7 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [textual Web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [Textual Ganglion](https://github.com/Textualize/textual-ganglion) Server for textual.web
 - [Textual Serve](https://github.com/Textualize/textual-serve) Serve Textual apps locally
+- [Textual Autocomplete](https://pypi.org/project/textual-autocomplete/)
 - [Textual Plotext](https://pypi.org/project/textual-plotext/) A Textual widget wrapper for the Plotext plotting library.
 - [Textual Canvas](https://github.com/davep/textual-canvas) A simple character-based canvas widget for use with Textual.
 - [Rich](https://github.com/Textualize/rich) Rich is a Python library for rich text and beautiful formatting in the terminal.
