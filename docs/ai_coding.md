@@ -17,6 +17,7 @@
 - [CodeShare](https://codeshare.io/) Share code in real time
 - [Colab](https://colab.research.google.com/)
 - [Jupyter Lab](https://jupyter.org/try-jupyter/lab/)
+- [Replit](https://replit.com/)
   
  👨🏻‍💻 AI IDE
 - [Kiro](https://kiro.dev/) 
