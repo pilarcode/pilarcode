@@ -13,7 +13,8 @@
 👨🏻‍💻 Cloud IDE
 - [Code Server](https://github.com/coder/code-server) Run VS Code on any machine anywhere and access it in the browser.
 - [Coder](https://coder.com/) Secure environments for developers and their agents.
--  [Visual Code for the web](https://vscode.dev). Terminals are not available in the web version.
+- [Visual Code for the web](https://vscode.dev). Terminals are not available in the web version.
+- [CodeShare](https://codeshare.io/) Share code in real time
   
  👨🏻‍💻 AI IDE
 - [Kiro](https://kiro.dev/) 
