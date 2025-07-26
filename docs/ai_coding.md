@@ -15,11 +15,14 @@
 - [Coder](https://coder.com/) Secure environments for developers and their agents.
 - [Visual Code for the web](https://vscode.dev). Terminals are not available in the web version.
 - [CodeShare](https://codeshare.io/) Share code in real time
+- [Colab](https://colab.research.google.com/)
+- [Jupyter Lab](https://jupyter.org/try-jupyter/lab/)
   
  👨🏻‍💻 AI IDE
 - [Kiro](https://kiro.dev/) 
 - [Windsurf](https://windsurf.com/editor) 
-- [Cursor](https://www.cursor.com/) 
+- [Cursor](https://www.cursor.com/)
+- Notebooks LLM
 
  👨🏻‍💻 Agentic Workflows
  - [n8n](https://n8n.io/)
