@@ -1,9 +1,9 @@
 
-## Terminal user interfaces libraries (TUI)
+## ✨  Terminal user interfaces libraries (TUI)
 
-A Terminal User Interface is, in general terms, a GUI in your terminal.
+A Terminal User Interface is, in general terms, a GUI in your terminal. 
 
-#### Command line tools
+#### ◻️ Command line tools
 - [Awesome cli apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
 - [frezee](https://github.com/charmbracelet/freeze) Generate images of code and terminal output.
 - [glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz.
@@ -14,7 +14,8 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [upiano](https://github.com/eliasdorneles/upiano) A piano in your terminal.
 - [rich-cli](https://github.com/textualize/rich-cli) Rich-cli is a command line toolbox for fancy output in the terminal
 
-#### Libraries to build TUIs 
+#### ◻️ Libraries to build TUIs 
+- [textualize](https://www.textualize.io/) Because the terminal is a platform.
 - [termite](https://github.com/shobrook/termite) Generative UI in your terminal
 - [Plotext](https://github.com/piccolomo/plotext) Plot images (including GIFs) and stream video with audio (including YouTube) in your terminal.
 - [pytermgui](https://github.com/bczsalba/pytermgui) Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language
@@ -22,9 +23,9 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [ratatui](https://github.com/ratatui/) Rust library that's all about cooking up terminal user interfaces (TUIs). 
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A powerful little TUI framework. Go.
 
-#### Textual library to build TUIs
-
-- [textual](https://github.com/Textualize/textual)  Build sophisticated user interfaces with a simple Python API.
+#### ◻️ Textualize's libraries (textual & rich) 
+###### Textual
+- [Textual](https://github.com/Textualize/textual)  Build sophisticated user interfaces with a simple Python API.
 - [Textual Videos](https://github.com/Textualize/videos) Learning how to do things with textual
 - [textual Web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [Textual Ganglion](https://github.com/Textualize/textual-ganglion) Server for textual.web
@@ -32,6 +33,7 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [Textual Autocomplete](https://pypi.org/project/textual-autocomplete/)
 - [Textual Plotext](https://pypi.org/project/textual-plotext/) A Textual widget wrapper for the Plotext plotting library.
 - [Textual Canvas](https://github.com/davep/textual-canvas) A simple character-based canvas widget for use with Textual.
+###### Rich
 - [Rich](https://github.com/Textualize/rich) Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Rich pixels](https://github.com/darrenburns/rich-pixels) A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 
