@@ -21,7 +21,7 @@
 
   
  👨🏻‍💻 AI IDE
- -[Github Spark](https://github.com/features/spark)
+- [Github Spark](https://github.com/features/spark)
 - [Kiro](https://kiro.dev/) 
 - [Windsurf](https://windsurf.com/editor) 
 - [Cursor](https://www.cursor.com/)
