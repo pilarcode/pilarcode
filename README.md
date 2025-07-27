@@ -6,6 +6,7 @@ I’m currently learning on AI Coding Agents, Multi-agents, AI Safety, and Agent
 - 🧠[Agents frameworks](https://github.com/pilarcode/pilarcode/blob/main/docs/agent_frameworks.md)
 - 🧪[Observability and Evals](https://github.com/pilarcode/pilarcode/blob/main/docs/observability.md)
 - 👨🏻‍💻[Vibe Coding](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_coding.md)
+- ✨[Terminal user interfaces (TUI)](https://github.com/pilarcode/pilarcode/blob/main/docs/tui_frameworks.md)
   
 <!--
 📢|[Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)|
