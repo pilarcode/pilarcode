@@ -8,11 +8,7 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [frezee](https://github.com/charmbracelet/freeze) Generate images of code and terminal output.
 - [glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz.
 - [litter](https://github.com/tuxcanfly/litter) A lightweight terminal-based read-only browser
-- [Trascedent-textual](https://github.com/Textualize/transcendent-textual) Textual apps and libraries
-- [Awesome textualize projects](https://github.com/oleksis/awesome-textualize-projects)
-- [textual-imageview](https://github.com/adamviola/textual-imageview)A simple terminal-based image viewer.
-- [upiano](https://github.com/eliasdorneles/upiano) A piano in your terminal.
-- [rich-cli](https://github.com/textualize/rich-cli) Rich-cli is a command line toolbox for fancy output in the terminal
+
 
 #### ◻️ Libraries to build TUIs 
 - [textualize](https://www.textualize.io/) Because the terminal is a platform.
@@ -36,5 +32,11 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 ###### Rich
 - [Rich](https://github.com/Textualize/rich) Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Rich pixels](https://github.com/darrenburns/rich-pixels) A Rich-compatible library for writing pixel images and ASCII art to the terminal.
+###### Apps
+- [Trascedent-textual](https://github.com/Textualize/transcendent-textual) Textual apps and libraries
+- [Awesome textualize projects](https://github.com/oleksis/awesome-textualize-projects)
+- [textual-imageview](https://github.com/adamviola/textual-imageview)A simple terminal-based image viewer.
+- [upiano](https://github.com/eliasdorneles/upiano) A piano in your terminal.
+- [rich-cli](https://github.com/textualize/rich-cli) Rich-cli is a command line toolbox for fancy output in the terminal
 
   
