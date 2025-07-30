@@ -5,6 +5,7 @@
 
  Great evals start with great observability
 
+- AgentOps https://www.agentops.ai/ Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
 - Pydantic logfire https://pydantic.dev/logfire . Visualise your whole app, not just LLM calls
 - Arize https://arize.com/
 - Langsmith https://smith.langchain.com/
