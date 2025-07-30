@@ -51,4 +51,5 @@ Se pueden crear motores de búsqueda internos empresariales y agentes de búsque
 - [Google Cloud Tech videos](https://www.youtube.com/@googlecloudtech/videos)
 - [NotebookLM & AgentSpace ](https://www.youtube.com/watch?v=3Wo-iucic7I&t=1s)
 - [Cómo implementar un agente de IA](https://www.youtube.com/watch?v=TLWLX_LGjUc)
+- [AgentSpace](https://cloud.google.com/agentspace/docs/overview)
 
