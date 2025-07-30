@@ -1,7 +1,6 @@
 ### Hi there 👋
 I’m currently learning on AI Coding Agents, Multi-agents, AI Safety, and Agentic Systems!
 
-
 - 🚀[AI Protocols](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_protocols.md)
   -  🔸 [Mcp Servers, Mcp Inspector, Mcp Marketplaces, etc](https://github.com/pilarcode/pilarcode/blob/main/docs/mcp_servers.md)
 - 🧠[Agents frameworks](https://github.com/pilarcode/pilarcode/blob/main/docs/agent_frameworks.md)
