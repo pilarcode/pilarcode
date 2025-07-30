@@ -5,8 +5,6 @@
 
  Great evals start with great observability
 
- 
-- AgentOps https://www.agentops.ai/
 - Pydantic logfire https://pydantic.dev/logfire . Visualise your whole app, not just LLM calls
 - Arize https://arize.com/
 - Langsmith https://smith.langchain.com/
