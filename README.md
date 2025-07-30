@@ -1,6 +1,7 @@
 ### Hi there 👋
 I’m currently learning on AI Coding Agents, Multi-agents, AI Safety, and Agentic Systems!
 
+<!--
 - 🚀[AI Protocols](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_protocols.md)
   -  🔸 [Mcp Servers, Mcp Inspector, Mcp Marketplaces, etc](https://github.com/pilarcode/pilarcode/blob/main/docs/mcp_servers.md)
 - 🧠[Agents frameworks](https://github.com/pilarcode/pilarcode/blob/main/docs/agent_frameworks.md)
@@ -11,7 +12,7 @@ I’m currently learning on AI Coding Agents, Multi-agents, AI Safety, and Agent
 - 👨🏻‍💻[Vibe Coding](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_coding.md)
 - ✨[Terminal user interfaces (TUI)](https://github.com/pilarcode/pilarcode/blob/main/docs/tui_frameworks.md)
   
-<!--
+
 📢|[Entity Name Recognition in Receipts](https://github.com/pilarcode/receipt-ocr/blob/main/Presentacion.pdf)|
 |[Reconociendo la actividad humana en videos](https://github.com/pilarcode/action-recognition-in-videos/blob/master/docs/Presentacion_TFM_Unir_PilarMadariaga.pdf)|
 |[Women'sDay](https://github.com/pilarcode/pilarcode/blob/9325c40cbea09122944d46f09fba16216571e6ae/presentaciones/WomensDay_2022_Alicante.pdf)|
