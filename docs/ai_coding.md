@@ -28,7 +28,7 @@
 - [Replit](https://replit.com/)
 - [Blackbox](https://www.blackbox.ai/)
 - [V0 by Vercel](https://v0.dev/)
-- [Notebooks LM by Google](https://cloud.google.com/agentspace/notebooklm-enterprise/docs/overview)
+
 
  👨🏻‍💻 Agentic Workflows
  - [n8n](https://n8n.io/)
