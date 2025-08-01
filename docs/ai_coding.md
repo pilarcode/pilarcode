@@ -30,6 +30,7 @@
 - [Replit](https://replit.com/)
 - [Blackbox](https://www.blackbox.ai/)
 - [V0 by Vercel](https://v0.dev/)
+- [Firebase Studio](https://idx.google.com/)
 
 
  👨🏻‍💻 Agentic Workflows
