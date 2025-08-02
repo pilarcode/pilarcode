@@ -20,3 +20,4 @@
 - Mastra https://mastra.ai/en/docs
 - LangBase https://langbase.com/docs
 - PandaAGI https://github.com/sinaptik-ai/panda-agi
+- Spring AI https://github.com/spring-projects/spring-ai
