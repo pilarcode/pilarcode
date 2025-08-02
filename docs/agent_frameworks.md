@@ -21,7 +21,7 @@
 - LangBase https://langbase.com/docs
 - PandaAGI https://github.com/sinaptik-ai/panda-agi
 - Spring AI https://github.com/spring-projects/spring-ai
-
+- AI SDK  https://github.com/vercel/ai The AI Toolkit for TypeScript
 
 ### Docker for AI 
 - https://github.com/docker/compose-for-agents The Easiest Way to Build, Run, and Secure Agents
