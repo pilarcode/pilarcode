@@ -11,6 +11,7 @@ Great evals start with great observability.
 ## Observability frameworks
 
 - [opentelemetry](https://opentelemetry.io/) An observability framework and toolkit designed to facilitate the Generation Export Collection of telemetry data such as traces, metrics, and logs.
+- [Traceloop](https://github.com/traceloop/openllmetry) Open-source observability for your LLM application, based on OpenTelemetry
 - [AgentOps](https://www.agentops.ai/) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
 - [Pydantic logfire](https://pydantic.dev/logfire) Visualise your whole app, not just LLM calls
 - [Arize](https://arize.com/)
@@ -26,8 +27,10 @@ Great evals start with great observability.
 
 
 # 🧪 Evals
+
 - [Confident AI](https://deepeval.com/) Confident AI is the cloud platform for DeepEval, the most widely adopted open-source framework to evaluate LLM applications such as RAG pipielines, agentics, chatbots, or even just an LLM itself.
 - [langwatch](https://langwatch.ai/) Test your AI agents with simulated users
 - [Laminar](https://www.lmnr.ai/) Laminar is the open-source platform for tracing and evaluating AI applications
 - [Patronus ](https://www.patronus.ai/)
 - [Percival](https://www.patronus.ai/percival)
+- [Weave](https://wandb.ai/site/weave/) Weave is a toolkit built by Weights & Biases for tracking, experimenting with, evaluating, deploying, and improving LLM-based applications.
