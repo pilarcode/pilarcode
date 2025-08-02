@@ -24,6 +24,7 @@ Se pueden crear motores de búsqueda internos empresariales y agentes de búsque
 <img width="888" height="456" alt="image" src="https://github.com/user-attachments/assets/818c1b60-c50b-449f-9b81-e3f19d38be5d" />
 
 
+<img width="952" height="331" alt="image" src="https://github.com/user-attachments/assets/1b838805-b1be-4ed2-a0fe-389c4ac4dd2a" />
 
 ### ◻️ NotebookLM
 
