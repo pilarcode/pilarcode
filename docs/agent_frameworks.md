@@ -1,4 +1,4 @@
-# 🧠 List of most popular frameworks
+###  🧠 Agents Frameworks
 - AutoGen https://github.com/microsoft/autogen
 - LangGraph https://github.com/langchain-ai/langgraph
 - PydanticAI  https://ai.pydantic.dev/
@@ -21,3 +21,7 @@
 - LangBase https://langbase.com/docs
 - PandaAGI https://github.com/sinaptik-ai/panda-agi
 - Spring AI https://github.com/spring-projects/spring-ai
+
+
+### Docker for AI 
+- https://github.com/docker/compose-for-agents The Easiest Way to Build, Run, and Secure Agents
