@@ -24,8 +24,9 @@
 - https://www.pulsemcp.com/
 
 ### Agent gateway 
-Next Generation Agentic Proxy for AI Agents and MCP servers
-- Agent gateway https://github.com/agentgateway/agentgateway
+Agentgateway is an open source project that is built on AI-native protocols to connect, secure, and observe agent-to-agent and agent-to-tool communication across any agent framework and environment.
+
+- https://github.com/agentgateway/agentgateway Next Generation Agentic Proxy for AI Agents and MCP servers. 
 
 ### MCP Gateway
 The MCP Gateway is Docker's open-source enterprise-ready solution for orchestrating and managing Model Context Protocol (MCP) servers securely across development and production environments. It is designed to help organizations connect MCP servers from the Docker MCP Catalog to MCP Clients without compromising security, visibility, or control.
