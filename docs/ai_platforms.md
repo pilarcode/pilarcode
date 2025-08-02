@@ -8,6 +8,7 @@ The term AI platform describes an integrated framework that can help businesses 
 - [Amazon Q Developer](https://aws.amazon.com/es/q/developer/)
 - [CrewAI Studio](https://github.com/strnad/CrewAI-Studio)
 - [LangGraph Studio](https://blog.langchain.com/langgraph-studio-the-first-agent-ide/)
+- [Arcade](https://www.arcade.dev/) Arcade is an AI Tool-calling Platform. 
   
 ### 🟨 Agents (CLI)
  A command line interface (CLI) is a text-based interface where you can input commands that interact with a computer's operating system. 
