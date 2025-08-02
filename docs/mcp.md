@@ -16,8 +16,7 @@ MCP is an open protocol that standardizes how applications provide context to la
 - [Composio ](https://mcp.composio.dev/)
 - [Mcp-genmedia](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main/experiments/mcp-genmedia)
 - [Docker mcp catalog](https://www.docker.com/products/mcp-catalog-and-toolkit/)
-
-
+  
 ### Mcp Marketplaces
 - https://mcpmarket.com/es
 - https://mcp.so/
@@ -26,9 +25,9 @@ MCP is an open protocol that standardizes how applications provide context to la
 - https://www.mcpworld.com/
 - https://www.pulsemcp.com/
 
-###
-- [FastMcp](https://gofastmcp.com/getting-started/welcome) The fast, Pythonic way to build MCP servers and clients.
-- 
+### MCP frameworks
+- [FastMcp](https://gofastmcp.com/getting-started/welcome) FastMCP is the standard framework for working with the Model Context Protocol
+- [Stainless](https://www.stainless.com/docs/guides/generate-mcp-server-from-openapi) Generate an MCP server from an OpenAPI spec
 
 ### MCP Gateway
 The MCP Gateway is Docker's open-source enterprise-ready solution for orchestrating and managing Model Context Protocol (MCP) servers securely across development and production environments. It is designed to help organizations connect MCP servers from the Docker MCP Catalog to MCP Clients without compromising security, visibility, or control.
