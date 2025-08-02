@@ -47,8 +47,8 @@ An integrated development environment (IDE) is a software application that helps
 
  🟨 AI Cloud IDE
 - [Firebase Studio](https://idx.google.com/)  Complete web-based development workspace from Google
-- [Coder](https://coder.com/) Secure environments for developers and their agents.
-- [vercel](https://vercel.com/) Build and deploy on the AI Cloud.
+- [Vercel](https://vercel.com/) Build and deploy on the AI Cloud.
+- [Lovable](https://lovable.dev/) Create apps and websites by chatting with AI
   
 🟨 Cloud IDE
 - [Code Server](https://github.com/coder/code-server) Run VS Code on any machine anywhere and access it in the browser.
