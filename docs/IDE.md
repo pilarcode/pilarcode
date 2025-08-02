@@ -18,6 +18,7 @@ An integrated development environment (IDE) is a software application that helps
 - [Lovable](https://lovable.dev/) Create apps and websites by chatting with AI
   
 🟨 Cloud IDE
+- [Codespaces Github](https://github.com/codespaces) Create a codespace to start developing in a secure, configurable, and dedicated development environment that works how and where you want it to
 - [Code Server](https://github.com/coder/code-server) Run VS Code on any machine anywhere and access it in the browser.
 - [Coder](https://coder.com/) Secure environments for developers and their agents.
 - [Visual Code for the web](https://vscode.dev). Terminals are not available in the web version.
