@@ -15,9 +15,11 @@ MCP is an open protocol that standardizes how applications provide context to la
 - [Microsoft teams](https://github.com/inditextech/mcp-teams-server)
 - [Composio ](https://mcp.composio.dev/)
 - [Mcp-genmedia](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main/experiments/mcp-genmedia)
-- [Docker mcp catalog](https://www.docker.com/products/mcp-catalog-and-toolkit/)
-  
+- [Paypal mcp](https://www.paypal.ai/docs/tools/mcp-quickstart)
+
+- 
 ### Mcp Marketplaces
+- [Docker mcp catalog](https://www.docker.com/products/mcp-catalog-and-toolkit/)
 - https://mcpmarket.com/es
 - https://mcp.so/
 - https://mcpserverhub.com/
