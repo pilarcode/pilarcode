@@ -1,5 +1,5 @@
 
-## Agents (CLI)
+## ✨ Agents (CLI)
  A command line interface (CLI) is a text-based interface where you can input commands that interact with a computer's operating system. 
  
 - [Gemini-Cli](https://github.com/google-gemini/gemini-cli) 
