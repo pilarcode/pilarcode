@@ -7,7 +7,8 @@ The term AI platform describes an integrated framework that can help businesses 
 - [Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/)
 - [Amazon Q Developer](https://aws.amazon.com/es/q/developer/)
 - [CrewAI Studio](https://github.com/strnad/CrewAI-Studio)
-
+- [LangGraph Studio](https://blog.langchain.com/langgraph-studio-the-first-agent-ide/)
+  
 ### 🟨 Agents (CLI)
  A command line interface (CLI) is a text-based interface where you can input commands that interact with a computer's operating system. 
  
