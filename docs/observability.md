@@ -8,18 +8,20 @@
  ## What is observability?
  Observability is the ability to understand the internal state of a system by examining its outputs. In the context of software, this means being able to understand the internal state of a system by examining its telemetry data, which includes traces, metrics, and logs.
 
-### 
-- AgentOps https://www.agentops.ai/ Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
-- Pydantic logfire https://pydantic.dev/logfire . Visualise your whole app, not just LLM calls
-- Arize https://arize.com/
-- Langsmith https://smith.langchain.com/
-- LangFuse https://langfuse.com/
-- Helicone https://www.helicone.ai/
-- PromptFlow: https://microsoft.github.io/promptflow/tutorials/trace-llm.html
-- MLflow: https://mlflow.org/docs/latest/tracing/
-- Comet https://www.comet.com
-- Galileo https://www.galileo.ai/
+## Observability frameworks
+
+- [opentelemetry](https://opentelemetry.io/) An observability framework and toolkit designed to facilitate the Generation Export Collection of telemetry data such as traces, metrics, and logs.
+- [AgentOps](https://www.agentops.ai/) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
+- [Pydantic logfire](https://pydantic.dev/logfire) Visualise your whole app, not just LLM calls
+- [Arize](https://arize.com/)
+- [Langsmith](https://smith.langchain.com/)
+- [LangFuse](https://langfuse.com/)
+- [Helicone](https://www.helicone.ai/)
+- [PromptFlow](https://microsoft.github.io/promptflow/tutorials/trace-llm.html)
+- [MLflow](https://mlflow.org/docs/latest/tracing/)
+- [Comet](https://www.comet.com)
+- [Galileo](https://www.galileo.ai/)
 - [Signoz](https://signoz.io/) Get APM, logs, traces, metrics, exceptions, & alerts in a single tool
 
 
-- https://opentelemetry.io/ An observability framework and toolkit designed to facilitate the Generation Export Collection of telemetry data such as traces, metrics, and logs.
+
