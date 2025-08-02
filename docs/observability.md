@@ -29,4 +29,4 @@ Great evals start with great observability.
 - [Confident AI](https://deepeval.com/) Confident AI is the cloud platform for DeepEval, the most widely adopted open-source framework to evaluate LLM applications such as RAG pipielines, agentics, chatbots, or even just an LLM itself.
 
 - [langwatch](https://langwatch.ai/) Test your AI agents with simulated users
-- [Laminar] (https://www.lmnr.ai/)Laminar is the open-source platform for tracing and evaluating AI applications
+- [Laminar](https://www.lmnr.ai/) Laminar is the open-source platform for tracing and evaluating AI applications
