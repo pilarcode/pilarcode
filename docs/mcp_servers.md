@@ -10,7 +10,8 @@
 - [Microsoft teams](https://github.com/inditextech/mcp-teams-server)
 - [Composio ](https://mcp.composio.dev/)
 - [Mcp-genmedia](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main/experiments/mcp-genmedia)
-
+- [Docker mcp catalog](https://www.docker.com/products/mcp-catalog-and-toolkit/)
+  
 ### Mcp Inspector
 - [Install the Mcp Inspector](https://github.com/modelcontextprotocol/inspector)
   
