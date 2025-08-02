@@ -3,7 +3,7 @@
 
 # 🧪 Agents and LLM Observability 
 
- Great evals start with great observability.
+Great evals start with great observability.
 
  ## What is observability?
  Observability is the ability to understand the internal state of a system by examining its outputs. In the context of software, this means being able to understand the internal state of a system by examining its telemetry data, which includes traces, metrics, and logs.
@@ -25,3 +25,8 @@
 
 
 
+# 🧪 Evals
+- [Confident AI](https://deepeval.com/) Confident AI is the cloud platform for DeepEval, the most widely adopted open-source framework to evaluate LLM applications such as RAG pipielines, agentics, chatbots, or even just an LLM itself.
+
+- [langwatch](https://langwatch.ai/) Test your AI agents with simulated users
+- [Laminar] (https://www.lmnr.ai/)Laminar is the open-source platform for tracing and evaluating AI applications
