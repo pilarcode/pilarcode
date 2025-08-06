@@ -19,7 +19,7 @@
 - CopilotKit https://docs.copilotkit.ai/coagents
 - Mastra https://mastra.ai/en/docs
 - LangBase https://langbase.com/docs
-- PandaAGI https://github.com/sinaptik-ai/panda-agi
+- PandaAGI https://github.com/sinaptik-ai/panda-agi PandaAGI provides a simple, intuitive API for building general AI agents in just a few lines of code
 - Spring AI https://github.com/spring-projects/spring-ai
 - AI SDK  https://github.com/vercel/ai The AI Toolkit for TypeScript
 
