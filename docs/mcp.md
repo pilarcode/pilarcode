@@ -16,6 +16,7 @@ MCP is an open protocol that standardizes how applications provide context to la
 - [Composio ](https://mcp.composio.dev/)
 - [Mcp-genmedia](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main/experiments/mcp-genmedia)
 - [Paypal mcp](https://www.paypal.ai/docs/tools/mcp-quickstart)
+- [Visual studio code mcp](https://code.visualstudio.com/mcp)
 
 - 
 ### Mcp Marketplaces
