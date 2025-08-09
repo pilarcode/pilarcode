@@ -14,6 +14,7 @@ An integrated development environment (IDE) is a software application that helps
 
 
  🟨 AI Cloud IDE
+ - [Visual Studio Code](https://code.visualstudio.com/)
  - [Cloud Shell Editor](https://cloud.google.com/blog/products/application-development/introducing-cloud-shell-editor)
 - [Firebase Studio](https://idx.google.com/)  Complete web-based development workspace from Google
 - [Vercel](https://vercel.com/) Build and deploy on the AI Cloud.
