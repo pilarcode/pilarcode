@@ -23,6 +23,7 @@ An integrated development environment (IDE) is a software application that helps
  - [Firebase Studio](https://idx.google.com/)  Complete web-based development workspace from Google
  - [Vercel](https://vercel.com/) Build and deploy on the AI Cloud.
  - [Lovable](https://lovable.dev/) Create apps and websites by chatting with AI
+ - [Phoenix.New by fly.io](https://phoenix.new)
   
 🟨 Cloud IDE
 - [Codespaces Github](https://github.com/codespaces) Create a codespace to start developing in a secure, configurable, and dedicated development environment that works how and where you want it to
@@ -33,3 +34,4 @@ An integrated development environment (IDE) is a software application that helps
 - [onlineide](https://www.onlineide.pro/) Share playground
 - [Colab](https://colab.research.google.com/) Colab Notebooks 
 - [Jupyter Lab](https://jupyter.org/try-jupyter/lab/) Jupyter Notbooks
+
