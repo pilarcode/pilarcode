@@ -10,7 +10,7 @@ The term AI platform describes an integrated framework that can help businesses 
 - [LangGraph Studio](https://blog.langchain.com/langgraph-studio-the-first-agent-ide/)
 - [Arcade](https://www.arcade.dev/) Arcade is an AI Tool-calling Platform.
 - [Camunda](https://camunda.com/)   Camunda lets you collaborate with the business using standards like BPMN and DMN with AI.
-- [Asana AI Studio] AI Studio is a no-code builder where you can design AI-powered workflows
+- [Asana AI Studio](https://asana.com/) AI Studio is a no-code builder where you can design AI-powered workflows
 - [GitPod](https://www.gitpod.io/) GitPod Platform provides automated and standardized development environments
 
 
