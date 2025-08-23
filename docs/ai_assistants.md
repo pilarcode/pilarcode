@@ -2,16 +2,10 @@
 An AI coding assistant is a software tool that leverages artificial intelligence to help developers write, understand, and maintain code
 
 - [Github Copilot](https://github.com/features/copilot)
-- [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
+- [Gitlab Duo](https://about.gitlab.com/gitlab-duo/) 
 - [Replit Agent](https://replit.com/ai)
 - [Cline](https://cline.bot/)
 - [Pythagora](https://www.pythagora.ai/) 
 - [Qodo](https://www.qodo.ai/)
 
-
-### [Gordon](https://docs.docker.com/ai/gordon/)
-Ask Gordon is your personal AI assistant embedded in Docker Desktop and the Docker CLI.
-
-
-### [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)
-AI powered Kubernetes Assistant. kubectl-ai cts as an intelligent interface, translating user intent into precise Kubernetes operations, making Kubernetes management more accessible and efficient
+<img width="572" height="313" alt="image" src="https://github.com/user-attachments/assets/8c18d558-c346-4ae1-8e89-5d7c4bbd880b" />
