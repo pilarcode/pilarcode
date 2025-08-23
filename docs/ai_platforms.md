@@ -4,7 +4,7 @@ The term AI platform describes an integrated framework that can help businesses 
 
 - [Google Agent Space](https://cloud.google.com/products/agentspace?hl=es)
 - [AWS Agents Core](https://aws.amazon.com/bedrock/agentcore/)
-- [Gitlab duo Agent Platform](https://about.gitlab.com/gitlab-duo/agent-platform/)
+- [GitLab Duo Agent Platform](https://about.gitlab.com/gitlab-duo/agent-platform/)
 
 ### 🟨 AI Studios
 - [Google Studio AI](https://aistudio.google.com/)
