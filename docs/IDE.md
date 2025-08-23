@@ -4,7 +4,7 @@ An integrated development environment (IDE) is a software application that helps
 
  🟨 AI IDE
 - [Github Spark](https://github.com/features/spark)
-- [Kiro](https://kiro.dev/) 
+- [Kiro](https://kiro.dev/)  Kiro is an agentic IDE
 - [Windsurf](https://windsurf.com/editor) 
 - [Cursor](https://www.cursor.com/)
 - [Replit](https://replit.com/)
