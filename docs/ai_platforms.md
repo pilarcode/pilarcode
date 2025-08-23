@@ -3,6 +3,7 @@
 The term AI platform describes an integrated framework that can help businesses create a custom AI-driven solution, such as a virtual assistant, that can either benefit a company's internal processes or its customers' journey.
 
 - [Agent Space](https://cloud.google.com/products/agentspace?hl=es)
+- [Agents Core](https://aws.amazon.com/bedrock/agentcore/)
 - [Google Studio AI](https://aistudio.google.com/)
 - [Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/)
 - [Amazon Q Developer](https://aws.amazon.com/es/q/developer/)
