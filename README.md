@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm currently learning about AI coding agents, multi-agents, AI security, and agentic systems 🤖🤖🤖!. 
-Besides, I'm working on this [wiki](https://github.com/pilarcode/pilarcode/wiki/Agents-Wiki), gathering interesting information about 🧠agents and 🔥 hot topics.
+Besides, I'm working on this [wiki](https://github.com/pilarcode/pilarcode/wiki), gathering interesting information about 🧠agents and 🔥 hot topics.
 
  
 <!--
