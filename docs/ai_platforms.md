@@ -4,6 +4,7 @@ The term AI platform describes an integrated framework that can help businesses 
 
 - [Google Agent Space](https://cloud.google.com/products/agentspace?hl=es)
 - [AWS Agents Core](https://aws.amazon.com/bedrock/agentcore/)
+- [Agentforce](https://www.salesforce.com/es/agentforce/)
 - [GitLab Duo Agent Platform](https://about.gitlab.com/gitlab-duo/agent-platform/)
 - [GitPod](https://www.gitpod.io/) GitPod Platform provides automated and standardized development environments
 - [Arcade](https://www.arcade.dev/)  Platform for building, hosting, managing your tools for your agents.
