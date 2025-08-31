@@ -5,4 +5,5 @@ On the other hand, a visual workflow editor that enables you to build AI-powered
 
  - [n8n](https://n8n.io/)
  - [simstudio](https://www.simstudio.ai)
+ - [typebot](https://typebot.io/)
 
