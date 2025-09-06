@@ -27,6 +27,7 @@ Great evals start with great observability.
 
 
 # 🧪 Evals
+- [OpenAI Evals](https://cookbook.openai.com/topic/evals)
 - [Weave](https://wandb.ai/site/weave/) Weave is a toolkit built by Weights & Biases for tracking, experimenting with, evaluating, deploying, and improving LLM-based applications.
 - [Locust](https://github.com/locustio/locust): Locust's AI load tests can not only call your LLM, but also bypass it and call tools directly.
 - [Epoch](https://epoch.ai/): Investigating the trajectory of AI
