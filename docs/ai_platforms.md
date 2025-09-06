@@ -10,6 +10,7 @@ The term AI platform describes an integrated framework that can help businesses 
 - [Sre.ai](https://docs.sre.ai/)
 - [Arcade](https://www.arcade.dev/)  Platform for building, hosting, managing your tools for your agents.
 - [Camunda](https://camunda.com/)   Camunda lets you collaborate with the business using standards like BPMN and DMN with AI.
+- [DigitalOcean Gradien](https://docs.digitalocean.com/products/gradient-ai-platform/) AI Platform lets you build fully-managed AI agents with knowledge bases for retrieval-augmented generation, multi-agent routing, guardrails
 
 ### 🟨 AI Studios
 - [Google Studio AI](https://aistudio.google.com/)
