@@ -1,4 +1,5 @@
 ###  🧠 Agents Frameworks
+- strandsagents https://strandsagents.com/latest/
 - AutoGen https://github.com/microsoft/autogen
 - LangGraph https://github.com/langchain-ai/langgraph
 - PydanticAI  https://ai.pydantic.dev/
