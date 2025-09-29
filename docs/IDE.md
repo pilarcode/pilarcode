@@ -24,6 +24,7 @@ An integrated development environment (IDE) is a software application that helps
  - [Vercel](https://vercel.com/) Build and deploy on the AI Cloud.
  - [Lovable](https://lovable.dev/) Create apps and websites by chatting with AI
  - [Phoenix.New by fly.io](https://phoenix.new)
+ - [base44](https://base44.com/)
   
 🟨 Cloud IDE
 - [Codespaces Github](https://github.com/codespaces) Create a codespace to start developing in a secure, configurable, and dedicated development environment that works how and where you want it to
