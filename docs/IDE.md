@@ -28,7 +28,7 @@ An integrated development environment (IDE) is a software application that helps
 - [Code Server](https://github.com/coder/code-server) Run VS Code on any machine anywhere and access it in the browser.
 - [Codespaces Github](https://github.com/codespaces) Create a codespace to start developing in a secure, configurable, and dedicated development environment that works how and where you want it to
 - [Visual Code for the web](https://vscode.dev). Terminals are not available in the web version.
-- [Gitlab Web IDE](https://gitlab.com/gitlab-org/gitlab-web-ide)
+- [Gitlab Web IDE](https://gitlab.com/gitlab-org/gitlab-web-ide) A package for bootstrapping GitLab's context-aware Web IDE.
 - [CodeShare](https://codeshare.io/) Share code in real time
 - [onlineide](https://www.onlineide.pro/) Share playground
 - [Colab](https://colab.research.google.com/) Colab Notebooks 
