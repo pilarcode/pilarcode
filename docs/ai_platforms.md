@@ -3,7 +3,7 @@
 The term AI platform describes an integrated framework that can help businesses create a custom AI-driven solution, such as a virtual assistant, that can either benefit a company's internal processes or its customers' journey.
 
 - [Google Agent Space](https://cloud.google.com/products/agentspace?hl=es)
-- [AWS Agents Core](https://aws.amazon.com/bedrock/agentcore/)
+- [AWS Agent Core](https://aws.amazon.com/bedrock/agentcore/)
 - [Agentforce](https://www.salesforce.com/es/agentforce/)
 - [GitLab Duo Agent Platform](https://about.gitlab.com/gitlab-duo/agent-platform/)
 - [GitPod](https://www.gitpod.io/) GitPod Platform provides automated and standardized development environments
