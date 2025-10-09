@@ -1,3 +1,16 @@
+# Meta
+-[Audiocraft](https://github.com/facebookresearch/audiocraft) At the moment, AudioCraft contains the training code and inference code for:
+    - MusicGen: A state-of-the-art controllable text-to-music model.
+    - AudioGen: A state-of-the-art text-to-sound model.
+    - EnCodec: A state-of-the-art high fidelity neural audio codec.
+    - Multi Band Diffusion: An EnCodec compatible decoder using diffusion.
+    - MAGNeT: A state-of-the-art non-autoregressive model for text-to-music and text-to-sound.
+    - AudioSeal: A state-of-the-art audio watermarking.
+    - MusicGen Style: A state-of-the-art text-and-style-to-music model.
+    - JASCO: "High quality text-to-music model conditioned on chords, melodies and drum tracks"
+- [llama](https://ai.meta.com/)
+
+
 # Google
 ## Live API
 - [Live API in Google AI Studio.](https://aistudio.google.com/live) The Live API enables low-latency, two-way voice and video interactions with Gemini.Use the Live API to provide end users with natural, human-like voice conversations, including the ability to interrupt the model's responses with voice commands.The Live API is supported for use in both the Google Gen AI SDK and using Vertex AI Studio. Some features (like text input and output) are only available using the Gen AI SDK.
