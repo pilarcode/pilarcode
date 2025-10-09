@@ -7,3 +7,4 @@
 - [Image](https://ai.google.dev/gemini-api/docs/imagen): High-fidelity image generation model, capable of generating realistic and high quality images from text prompts
 - [Video](https://ai.google.dev/gemini-api/docs/video?example=dialogue) : State-of-the-art model for generating high-fidelity, 8-second 720p or 1080p videos from a text prompt,
 - [Lyria RealTime](https://ai.google.dev/gemini-api/docs/music-generation): The Gemini API, using Lyria RealTime, provides access to a state-of-the-art, real-time, streaming music generation model
+- [Gemini Robotics-ER 1.5](https://ai.google.dev/gemini-api/docs/robotics-overview): Gemini Robotics-ER 1.5 is a vision-language model (VLM) that brings Gemini's agentic capabilities to robotics.
