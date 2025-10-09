@@ -1,5 +1,8 @@
 # Google
-- [Live API in Google AI Studio.](https://aistudio.google.com/live) The Live API enables low-latency, two-way voice and video interactions with Gemini
+- [Live API in Google AI Studio.](https://aistudio.google.com/live) The Live API enables low-latency, two-way voice and video interactions with Gemini.Use the Live API to provide end users with natural, human-like voice conversations, including the ability to interrupt the model's responses with voice commands.The Live API is supported for use in both the Google Gen AI SDK and using Vertex AI Studio. Some features (like text input and output) are only available using the Gen AI SDK.
+    - gemini-live-2.5-flash	Private GA*
+    - gemini-live-2.5-flash-preview-native-audio-09-2025	Public preview
+    - gemini-live-2.5-flash-preview-native-audio	Public preview; Discontinuation date: October 18, 2025
     
 - [Gemini 2.5 Multimodal Livel API](https://ai.google.dev/gemini-api/docs/models)
   - Gemini 2.5 Pro : Capable of reasoning over complex problems in code, math, and STEM
