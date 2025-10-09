@@ -1,15 +1,3 @@
-# Meta
--[Audiocraft](https://github.com/facebookresearch/audiocraft) At the moment, AudioCraft contains the training code and inference code for:
-    - MusicGen: A state-of-the-art controllable text-to-music model.
-    - AudioGen: A state-of-the-art text-to-sound model.
-    - EnCodec: A state-of-the-art high fidelity neural audio codec.
-    - Multi Band Diffusion: An EnCodec compatible decoder using diffusion.
-    - MAGNeT: A state-of-the-art non-autoregressive model for text-to-music and text-to-sound.
-    - AudioSeal: A state-of-the-art audio watermarking.
-    - MusicGen Style: A state-of-the-art text-and-style-to-music model.
-    - JASCO: "High quality text-to-music model conditioned on chords, melodies and drum tracks"
-- [llama](https://ai.meta.com/)
-
 
 # Google
 ## Live API
@@ -34,3 +22,18 @@
 
 - [Cookbook](https://github.com/google-gemini/cookbook)
 - https://github.com/googleapis/python-genai
+
+# Meta
+- [Audiocraft](https://github.com/facebookresearch/audiocraft) At the moment, AudioCraft contains the training code and inference code for:
+    - MusicGen: A state-of-the-art controllable text-to-music model.
+    - AudioGen: A state-of-the-art text-to-sound model.
+    - EnCodec: A state-of-the-art high fidelity neural audio codec.
+    - Multi Band Diffusion: An EnCodec compatible decoder using diffusion.
+    - MAGNeT: A state-of-the-art non-autoregressive model for text-to-music and text-to-sound.
+    - AudioSeal: A state-of-the-art audio watermarking.
+    - MusicGen Style: A state-of-the-art text-and-style-to-music model.
+    - JASCO: "High quality text-to-music model conditioned on chords, melodies and drum tracks"
+- [llama](https://ai.meta.com/)
+    - [Llama 4](https://www.llama.com/models/llama-4/)
+    - [Llama 3](https://www.llama.com/models/llama-3/)
+    - [Llama API](https://www.llama.com/products/llama-api/)
