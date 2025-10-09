@@ -24,6 +24,8 @@ Great evals start with great observability.
 - [Galileo](https://www.galileo.ai/)
 - [Signoz](https://signoz.io/) Get APM, logs, traces, metrics, exceptions, & alerts in a single tool
 
+## Tracing
+- [ Jaeger Tracing Platform](https://www.jaegertracing.io/)
 
 
 # 🧪 Evals
