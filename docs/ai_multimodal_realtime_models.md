@@ -7,6 +7,7 @@
 
     - [How to use WebSockets with the Live API](https://colab.research.google.com/github/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/intro_multimodal_live_api.ipynb)
     - [How to use the Live API in a streaming audio and video format](https://colab.research.google.com/github/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/intro_multimodal_live_api_genai_sdk.ipynb)
+    - https://google.github.io/adk-docs/streaming/custom-streaming/
  
 ## Multimodal 
 - [Gemini 2.5 Multimodal Livel API](https://ai.google.dev/gemini-api/docs/models)
