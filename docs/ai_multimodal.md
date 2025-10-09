@@ -1,6 +1,6 @@
 # Google
 
-- [Gemini 2 Multimodal Livel API](https://ai.google.dev/gemini-api/docs/models)
+- [Gemini 2.5 Multimodal Livel API](https://ai.google.dev/gemini-api/docs/models)
   - Gemini 2.5 Pro : Capable of reasoning over complex problems in code, math, and STEM
   - Gemini 2.5 Flash: Best model in terms of price-performance, offering well-rounded capabilities. 2.5 Flash is best for large scale processing, low-latency, high volume tasks that require thinking, and agentic use cases.
   - Gemini 2.5 Flash-Lite:Our fastest flash model optimized for cost-efficiency and high throughput.
@@ -10,3 +10,6 @@
 - [Gemini Robotics-ER 1.5](https://ai.google.dev/gemini-api/docs/robotics-overview): Gemini Robotics-ER 1.5 is a vision-language model (VLM) that brings Gemini's agentic capabilities to robotics.
 - [Live API in Google AI Studio.](https://aistudio.google.com/live)
 - https://github.com/google-gemini/cookbook
+- Colab:
+    - https://github.com/google-gemini/cookbook/blob/main/examples/LiveAPI_plotting_and_mapping.ipynb
+    - https://github.com/google-gemini/cookbook/blob/d7d2bd458fb87885fb82d83a3530cd404cbafa91/quickstarts/Get_started_LiveAPI.ipynb
