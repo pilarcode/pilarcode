@@ -9,7 +9,4 @@
 - [Lyria RealTime](https://ai.google.dev/gemini-api/docs/music-generation): The Gemini API, using Lyria RealTime, provides access to a state-of-the-art, real-time, streaming music generation model
 - [Gemini Robotics-ER 1.5](https://ai.google.dev/gemini-api/docs/robotics-overview): Gemini Robotics-ER 1.5 is a vision-language model (VLM) that brings Gemini's agentic capabilities to robotics.
 - [Live API in Google AI Studio.](https://aistudio.google.com/live)
-- https://github.com/google-gemini/cookbook
-- Colab:
-    - https://github.com/google-gemini/cookbook/blob/main/examples/LiveAPI_plotting_and_mapping.ipynb
-    - https://github.com/google-gemini/cookbook/blob/d7d2bd458fb87885fb82d83a3530cd404cbafa91/quickstarts/Get_started_LiveAPI.ipynb
+- [Cookbook](https://github.com/google-gemini/cookbook)
