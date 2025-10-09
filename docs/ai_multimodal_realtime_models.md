@@ -1,9 +1,14 @@
 # Google
+## Live API
 - [Live API in Google AI Studio.](https://aistudio.google.com/live) The Live API enables low-latency, two-way voice and video interactions with Gemini.Use the Live API to provide end users with natural, human-like voice conversations, including the ability to interrupt the model's responses with voice commands.The Live API is supported for use in both the Google Gen AI SDK and using Vertex AI Studio. Some features (like text input and output) are only available using the Gen AI SDK.
     - gemini-live-2.5-flash	Private GA*
     - gemini-live-2.5-flash-preview-native-audio-09-2025	Public preview
     - gemini-live-2.5-flash-preview-native-audio	Public preview; Discontinuation date: October 18, 2025
-    
+
+    - [How to use WebSockets with the Live API](https://colab.research.google.com/github/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/intro_multimodal_live_api.ipynb)
+    - [How to use the Live API in a streaming audio and video format](https://colab.research.google.com/github/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/intro_multimodal_live_api_genai_sdk.ipynb)
+ 
+## Multimodal 
 - [Gemini 2.5 Multimodal Livel API](https://ai.google.dev/gemini-api/docs/models)
   - Gemini 2.5 Pro : Capable of reasoning over complex problems in code, math, and STEM
   - Gemini 2.5 Flash: Best model in terms of price-performance, offering well-rounded capabilities. 2.5 Flash is best for large scale processing, low-latency, high volume tasks that require thinking, and agentic use cases.
