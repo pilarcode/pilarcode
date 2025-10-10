@@ -1,3 +1,4 @@
+# OpenAI
 
 # Google
 ## Live API
@@ -22,6 +23,9 @@
 
 - [Cookbook](https://github.com/google-gemini/cookbook)
 - https://github.com/googleapis/python-genai
+# AWS 
+- [bedrock](https://aws.amazon.com/es/bedrock/)
+- [nova sonic](https://aws.amazon.com/es/ai/generative-ai/nova/speech/)
 
 # Meta
 - [Audiocraft](https://github.com/facebookresearch/audiocraft) At the moment, AudioCraft contains the training code and inference code for:
