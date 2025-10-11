@@ -7,6 +7,7 @@
 - Strands Agents SDK https://strandsagents.com/latest
 - Nvidia Agent Intelligence Toolkit https://developer.nvidia.com/agent-intelligence-toolkit
 - OpenAI Agents https://openai.github.io/openai-agents-python/
+- AgentKit https://openai.com/index/introducing-agentkit AgentKit is a modular toolkit for building, deploying, and optimizing agents.
 - CrewAI https://docs.crewai.com/introduction
 - AutoGen https://github.com/microsoft/autogen
 - HuggingFace Smolagents https://huggingface.co/docs/smolagents/en/index
