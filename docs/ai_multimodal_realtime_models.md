@@ -1,6 +1,18 @@
 🧠 Realtime Models & Multimodal Models
 
 # OpenAI
+LLMs can process audio by using sound as input, creating sound as output, or both. OpenAI has several API endpoints that help you build audio applications or voice agents.
+Voice agents understand audio to handle tasks and respond back in natural language. There are two main ways to approach voice agents: either with speech-to-speech models and the Realtime API, or by chaining together a speech-to-text model, a text language model to process the request, and a text-to-speech model to respond. Speech-to-speech is lower latency and more natural, but chaining together a voice agent is a reliable way to extend a text-based agent into a voice agent. If you are already using the Agents SDK, you can extend your existing agents with voice capabilities using the chained approach.
+
+Models such as GPT-4o or GPT-4o mini are natively multimodal, meaning they can understand and generate multiple modalities as input and output.
+If you already have a text-based LLM application with the Chat Completions endpoint, you may want to add audio capabilities
+
+If you need real-time interactions or transcription, use the Realtime API.
+If realtime is not a requirement but you're looking to build a voice agent or an audio-based application that requires features such as function calling, use the Chat Completions API.
+For use cases with one specific purpose, use the Transcription, Translation, or Speech APIs.
+
+https://platform.openai.com/docs/guides/audio
+https://platform.openai.com/docs/guides/realtime
 
 # Google
 ## Live API
