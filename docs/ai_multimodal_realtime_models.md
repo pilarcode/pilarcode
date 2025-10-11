@@ -1,6 +1,6 @@
-🧠 Realtime Models & Multimodal Models
+# 🧠 Realtime Models & Multimodal Models
 
-# OpenAI
+## OpenAI
 LLMs can process audio by using sound as input, creating sound as output, or both. OpenAI has several API endpoints that help you build audio applications or voice agents.
 Voice agents understand audio to handle tasks and respond back in natural language. There are two main ways to approach voice agents: either with speech-to-speech models and the Realtime API, or by chaining together a speech-to-text model, a text language model to process the request, and a text-to-speech model to respond. Speech-to-speech is lower latency and more natural, but chaining together a voice agent is a reliable way to extend a text-based agent into a voice agent. If you are already using the Agents SDK, you can extend your existing agents with voice capabilities using the chained approach.
 
@@ -14,8 +14,8 @@ For use cases with one specific purpose, use the Transcription, Translation, or 
 https://platform.openai.com/docs/guides/audio
 https://platform.openai.com/docs/guides/realtime
 
-# Google
-## Live API
+## Google
+### Live API
 - [Live API in Google AI Studio.](https://aistudio.google.com/live) The Live API enables low-latency, two-way voice and video interactions with Gemini.Use the Live API to provide end users with natural, human-like voice conversations, including the ability to interrupt the model's responses with voice commands.The Live API is supported for use in both the Google Gen AI SDK and using Vertex AI Studio. Some features (like text input and output) are only available using the Gen AI SDK.
     - gemini-live-2.5-flash	Private GA*
     - gemini-live-2.5-flash-preview-native-audio-09-2025	Public preview
@@ -25,7 +25,7 @@ https://platform.openai.com/docs/guides/realtime
     - [How to use the Live API in a streaming audio and video format](https://colab.research.google.com/github/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/intro_multimodal_live_api_genai_sdk.ipynb)
     - https://google.github.io/adk-docs/streaming/custom-streaming/
  
-## Multimodal 
+### Multimodal 
 - [Gemini 2.5 Multimodal Livel API](https://ai.google.dev/gemini-api/docs/models)
   - Gemini 2.5 Pro : Capable of reasoning over complex problems in code, math, and STEM
   - Gemini 2.5 Flash: Best model in terms of price-performance, offering well-rounded capabilities. 2.5 Flash is best for large scale processing, low-latency, high volume tasks that require thinking, and agentic use cases.
@@ -37,11 +37,12 @@ https://platform.openai.com/docs/guides/realtime
 
 - [Cookbook](https://github.com/google-gemini/cookbook)
 - https://github.com/googleapis/python-genai
-# AWS 
+
+## AWS 
 - [bedrock](https://aws.amazon.com/es/bedrock/)
 - [nova sonic](https://aws.amazon.com/es/ai/generative-ai/nova/speech/)
 
-# Meta
+## Meta
 - [Audiocraft](https://github.com/facebookresearch/audiocraft) At the moment, AudioCraft contains the training code and inference code for:
     - MusicGen: A state-of-the-art controllable text-to-music model.
     - AudioGen: A state-of-the-art text-to-sound model.
