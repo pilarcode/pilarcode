@@ -75,7 +75,9 @@ Sus principales objetivos son:
 - Requiere configuración e integración con otras herramientas.
 
 > En resumen, **OTel es un estándar de instrumentación y transporte de datos**, no una plataforma de observabilidad completa.
+---
 
+[opentelemetry](https://opentelemetry.io/) An observability framework and toolkit designed to facilitate the Generation Export Collection of telemetry data such as traces, metrics, and logs.
 ---
 
 ## **5. Especificación y componentes de OpenTelemetry**
