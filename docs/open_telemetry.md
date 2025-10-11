@@ -1,4 +1,4 @@
-# **Los tres pilares de la observabilidad: métricas, seguimientos y registros**
+**Los tres pilares de la observabilidad: métricas, seguimientos y registros**
 
 ## **1. Introducción a la observabilidad**
 
@@ -56,7 +56,7 @@ Sin un mecanismo estandarizado (como identificadores de seguimiento o de interva
 ---
 
 ## **4. OpenTelemetry (OTel)**
-
+  
 ### **4.1 Qué es OpenTelemetry**
 
 **OpenTelemetry (OTel)** es un proyecto de código abierto que proporciona herramientas y API estandarizadas para generar, recopilar y exportar datos de telemetría (trazas, métricas y registros).  
