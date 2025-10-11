@@ -1,3 +1,5 @@
+# Courses and Certifications
+
 * [DeepLearning AI](https://www.deeplearning.ai/)
 * [GitLab University](https://university.gitlab.com) Everything you need to know about DevSecOps.
 * [Weaviate Academy](https://weaviate.io/learn)
