@@ -1,7 +1,7 @@
 
 
 
-# 🧪 Agents and LLM Observability 
+# 🧪 OpenTelemetry & Observability 
 
 Great evals start with great observability.
 
