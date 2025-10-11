@@ -1,7 +1,7 @@
 
 
 
-# 🧪 OpenTelemetry & Observability 
+# 🧪Observability 
 
 Great evals start with great observability.
 
@@ -10,7 +10,6 @@ Great evals start with great observability.
 
 ## Observability frameworks
 
-- [opentelemetry](https://opentelemetry.io/) An observability framework and toolkit designed to facilitate the Generation Export Collection of telemetry data such as traces, metrics, and logs.
 - [Traceloop](https://github.com/traceloop/openllmetry) Open-source observability for your LLM application, based on OpenTelemetry
 - [AgentOps](https://www.agentops.ai/) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
 - [Pydantic logfire](https://pydantic.dev/logfire) Visualise your whole app, not just LLM calls
@@ -23,8 +22,6 @@ Great evals start with great observability.
 - [Comet](https://www.comet.com)
 - [Galileo](https://www.galileo.ai/)
 - [Signoz](https://signoz.io/) Get APM, logs, traces, metrics, exceptions, & alerts in a single tool
-
-## Tracing
-- [ Jaeger Tracing Platform](https://www.jaegertracing.io/)
+- [Jaeger Tracing Platform](https://www.jaegertracing.io/)
 
 
