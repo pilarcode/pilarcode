@@ -1,10 +1,9 @@
-### 🟨 AI Platforms
--[freeplay](https://freeplay.ai/) Build great AI products & agents.all in one enterprise-ready platform.
+### 🟨 AI Platforms and Agents Platforms
 
-
-### 🟨 Agents Platforms
 The term AI platform describes an integrated framework that can help businesses create a custom AI-driven solution, such as a virtual assistant, that can either benefit a company's internal processes or its customers' journey.
 
+- [freeplay](https://freeplay.ai/) Build great AI products & agents.all in one enterprise-ready platform.
+- [Arize AI](https://arize.com/) AI & Agent Engineering Platform. One place for development, observability, and evaluation.
 - [Google Agent Space](https://cloud.google.com/products/agentspace?hl=es)
 - [AWS Agent Core](https://aws.amazon.com/bedrock/agentcore/)
 - [Agentforce](https://www.salesforce.com/es/agentforce/)
