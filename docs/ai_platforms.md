@@ -1,3 +1,6 @@
+### 🟨 AI Platforms
+-[freeplay](https://freeplay.ai/) Build great AI products & agents.all in one enterprise-ready platform.
+
 
 ### 🟨 Agents Platforms
 The term AI platform describes an integrated framework that can help businesses create a custom AI-driven solution, such as a virtual assistant, that can either benefit a company's internal processes or its customers' journey.
