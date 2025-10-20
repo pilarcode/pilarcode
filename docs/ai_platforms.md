@@ -4,7 +4,7 @@ The term AI platform describes an integrated framework that can help businesses 
 
 - [freeplay](https://freeplay.ai/) Build great AI products & agents.all in one enterprise-ready platform.
 - [Arize AI](https://arize.com/) AI & Agent Engineering Platform. One place for development, observability, and evaluation.
-- [Google Agent Space](https://cloud.google.com/products/agentspace?hl=es)
+- [Google Agent Space](https://cloud.google.com/products/agentspace?hl=es) Gemini Enterprise permite a los equipos descubrir, crear, compartir y ejecutar agentes de IA en una única plataforma segura.
 - [AWS Agent Core](https://aws.amazon.com/bedrock/agentcore/)
 - [Agentforce](https://www.salesforce.com/es/agentforce/)
 - [GitLab Duo Agent Platform](https://about.gitlab.com/gitlab-duo/agent-platform/)
