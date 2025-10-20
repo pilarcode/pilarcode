@@ -1,19 +1,12 @@
 
-
-
-# 🧪Observability 
-
-Great evals start with great observability.
-
- ## What is observability?
- Observability is the ability to understand the internal state of a system by examining its outputs. In the context of software, this means being able to understand the internal state of a system by examining its telemetry data, which includes traces, metrics, and logs.
+# 🧪Observability:  Great evals start with great observability.
+Observability is the ability to understand the internal state of a system by examining its outputs. In the context of software, this means being able to understand the internal state of a system by examining its telemetry data, which includes traces, metrics, and logs.
 
 ## Observability frameworks
-
 - [Traceloop](https://github.com/traceloop/openllmetry) Open-source observability for your LLM application, based on OpenTelemetry
-- [AgentOps](https://www.agentops.ai/) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
+- [Phoenix](https://phoenix.arize.com/) Open-source LLM tracing and evaluation
+- [AgentOps](https://www.agentops.ai/) Trace, Debug, & Deploy Reliable AI Agents.
 - [Pydantic logfire](https://pydantic.dev/logfire) Visualise your whole app, not just LLM calls
-- [Arize](https://arize.com/)
 - [Langsmith](https://smith.langchain.com/)
 - [LangFuse](https://langfuse.com/)
 - [Helicone](https://www.helicone.ai/)
