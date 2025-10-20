@@ -34,7 +34,7 @@ https://platform.openai.com/docs/guides/realtime
 - [Video](https://ai.google.dev/gemini-api/docs/video?example=dialogue) : State-of-the-art model for generating high-fidelity, 8-second 720p or 1080p videos from a text prompt,
 - [Lyria RealTime](https://ai.google.dev/gemini-api/docs/music-generation): The Gemini API, using Lyria RealTime, provides access to a state-of-the-art, real-time, streaming music generation model
 - [Gemini Robotics-ER 1.5](https://ai.google.dev/gemini-api/docs/robotics-overview): Gemini Robotics-ER 1.5 is a vision-language model (VLM) that brings Gemini's agentic capabilities to robotics.
-
+- [Flow TV](https://labs.google/flow/tv/channel/off-season-santa/P1FR1GSn1mDHpCwAGqGp?random=true)
 - [Cookbook](https://github.com/google-gemini/cookbook)
 - https://github.com/googleapis/python-genai
 
