@@ -19,3 +19,8 @@
 * [Apx](https://apxml.com/courses)
 * [The Linux Foundation](https://training.linuxfoundation.org/full-catalog/)
 * [Atlassian](https://community.atlassian.com/learning/catalog)
+* [Skills Github](https://skills.github.com/)
+* [AWS SkillBuilder](https://skillbuilder.aws/)
+* [Google Skills](https://www.skills.google/?locale=es)
+* [Nvidia](https://www.nvidia.com/en-us/training/)
+* [Aprende Git Branching](https://learngitbranching.js.org/?locale=es_ES)
