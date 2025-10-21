@@ -18,3 +18,4 @@
 * [Landing.ai Academy](https://landing.ai/category/academy)
 * [Apx](https://apxml.com/courses)
 * [The Linux Foundation](https://training.linuxfoundation.org/full-catalog/)
+* [Atlassian](https://community.atlassian.com/learning/catalog)
