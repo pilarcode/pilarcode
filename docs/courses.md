@@ -24,3 +24,4 @@
 * [Google Skills](https://www.skills.google/?locale=es)
 * [Nvidia](https://www.nvidia.com/en-us/training/)
 * [Aprende Git Branching](https://learngitbranching.js.org/?locale=es_ES)
+* [Okta Learning](https://learning.okta.com/) Practical skills in Okta and Auth0
