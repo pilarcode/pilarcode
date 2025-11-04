@@ -10,4 +10,5 @@
   
 ## Whitepapers
 [Auth0 whitepapers](https://auth0.com/resources/whitepapers)
+[Auth0 Webinars](https://auth0.com/resources/webinars)
 
