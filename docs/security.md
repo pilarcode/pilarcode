@@ -9,6 +9,7 @@
 -  https://auth0.com/ai/docs/mcp/auth-for-mcp
   
 ## Whitepapers
-[Auth0 whitepapers](https://auth0.com/resources/whitepapers)
-[Auth0 Webinars](https://auth0.com/resources/webinars)
+- [Auth0 whitepapers](https://auth0.com/resources/whitepapers)
+- [Auth0 Webinars](https://auth0.com/resources/webinars)
+- [Auth0 Videos](https://auth0.com/resources/videos)
 
