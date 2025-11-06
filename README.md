@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm currently learning and working on projects about mcps and multi-agents, security and  agentic systems 🤖🤖🤖!. 
-Besides, I'm working on a [wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Agents-and-Mcps-Wiki) gathering interesting information about 🧠agents and 🔥 mcps
-
+I'm currently learning and working on projects about mcps and multi-agents, security and  agentic systems 🤖🤖🤖. 
+Besides, I'm sharing interesting information about 🧠agents and 🔥 mcps in [my wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Agents-and-Mcps-Wiki)
+Have a nice day!
  
 <!--
 - 🚀[AI Protocols](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_protocols.md)
