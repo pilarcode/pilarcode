@@ -3,7 +3,6 @@ I'm currently learning and working on projects about mcps and multi-agents, secu
 I'm sharing interesting information about 🧠agents and 🔥 mcps in [my wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Agents-and-Mcps-Wiki).
 
 Enjoy coding!
-Best Pilar
  
 <!--
 - 🚀[AI Protocols](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_protocols.md)
