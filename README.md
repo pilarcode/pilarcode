@@ -1,10 +1,8 @@
 ### Hi there 👋
 I'm currently learning and working on projects about mcps and multi-agents, security and  agentic systems 🤖🤖🤖. 
+I'm sharing interesting information about 🧠agents and 🔥 mcps in [my wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Agents-and-Mcps-Wiki).
 
-Besides, I'm sharing interesting information about 🧠agents and 🔥 mcps in [my wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Agents-and-Mcps-Wiki).
-
-Have a nice day and enjoy coding!
-
+Enjoy coding!
 Best Pilar
  
 <!--
