@@ -1,5 +1,8 @@
 
-# 🧪Observability:  Great evals start with great observability.
+# AI Observabilit
+
+⭐ Great evals start with great observability!!
+
 Observability is the ability to understand the internal state of a system by examining its outputs. In the context of software, this means being able to understand the internal state of a system by examining its telemetry data, which includes traces, metrics, and logs.
 
 ## Observability Platforms
