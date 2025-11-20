@@ -4,8 +4,6 @@ Observability is the ability to understand the internal state of a system by exa
 
 ## Observability Platforms
 - [Dynatrace](https://www.dynatrace.com/)Dynatrace no solo ofrece visibilidad; permite que los sistemas comprendan y actúen.En cualquier decisión de liderazgo, la autonomía depende de la calidad de la información y la confianza en su contexto
-
-## Observability frameworks
 - [Traceloop](https://github.com/traceloop/openllmetry) Open-source observability for your LLM application, based on OpenTelemetry
 - [Phoenix](https://phoenix.arize.com/) Open-source LLM tracing and evaluation
 - [AgentOps](https://www.agentops.ai/) Trace, Debug, & Deploy Reliable AI Agents.
