@@ -1,5 +1,5 @@
 
-# AI Observabilit
+# Observability
 
 ⭐ Great evals start with great observability!!
 
