@@ -1,0 +1,4 @@
+- ⚖️ AI Governace
+     - 🔸[The EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
+     - 🔸[Small Businesses’ Guide to the AI Act](https://artificialintelligenceact.eu/small-businesses-guide-to-the-ai-act/)
+     - 🔸The AI Act Explorer](https://artificialintelligenceact.eu/ai-act-explorer/)
