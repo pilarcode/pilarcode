@@ -2,6 +2,9 @@
 # 🧪Observability:  Great evals start with great observability.
 Observability is the ability to understand the internal state of a system by examining its outputs. In the context of software, this means being able to understand the internal state of a system by examining its telemetry data, which includes traces, metrics, and logs.
 
+## Observability Platforms
+- [Dynatrace](https://www.dynatrace.com/)Dynatrace no solo ofrece visibilidad; permite que los sistemas comprendan y actúen.En cualquier decisión de liderazgo, la autonomía depende de la calidad de la información y la confianza en su contexto
+
 ## Observability frameworks
 - [Traceloop](https://github.com/traceloop/openllmetry) Open-source observability for your LLM application, based on OpenTelemetry
 - [Phoenix](https://phoenix.arize.com/) Open-source LLM tracing and evaluation
