@@ -9,3 +9,6 @@
 - Agora Protocol (Agora): https://agoraprotocol.org/
 
 
+## Topics Related
+- [langchain privy](https://github.com/privy-io/langchain-privy)  build and manage wallets with Privy's APIs and SDKs.
+  
