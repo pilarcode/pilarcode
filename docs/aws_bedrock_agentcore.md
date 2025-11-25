@@ -24,6 +24,8 @@ agentcore status --verbose
 ### Probar el mcp en el entorno de pruebas (opcion: Con identidad Protocolo MCP)
 <img width="1650" height="596" alt="image" src="https://github.com/user-attachments/assets/f3650d2a-6ba6-4bd3-a755-034a034b1b5f" />
 
+<img width="940" height="366" alt="image" src="https://github.com/user-attachments/assets/ee0f3408-b038-4d0f-a7e3-a01bacd7ab65" />
+
 ## Como desplegar un Agente en AgentCore Runtime que consuma tools de un mcp
 
 
