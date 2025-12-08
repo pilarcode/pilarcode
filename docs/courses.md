@@ -26,4 +26,4 @@
 * [Aprende Git Branching](https://learngitbranching.js.org/?locale=es_ES)
 * [Okta Learning](https://learning.okta.com/) Practical skills in Okta and Auth0
 * [Dynatrace University](https://university.dynatrace.com/learn)
-* [Databricks Academy](https://www.databricks.com/learn/training/login)
+* [Databricks Academy](https://www.databricks.com/learn/training/login) https://www.databricks.com/learn/training/certification
