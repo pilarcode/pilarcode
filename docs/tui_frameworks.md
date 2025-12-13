@@ -18,6 +18,7 @@ A Terminal User Interface is, in general terms, a GUI in your terminal.
 - [py_cui](https://github.com/jwlodek/py_cui)
 - [ratatui](https://github.com/ratatui/) Rust library that's all about cooking up terminal user interfaces (TUIs). 
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A powerful little TUI framework. Go.
+- [Click](https://click.palletsprojects.com/en/stable/)
 
 #### ◻️ Textualize's libraries (textual & rich) 
 ###### Textual
