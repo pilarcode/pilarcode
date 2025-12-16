@@ -6,5 +6,5 @@ On the other hand, a visual workflow editor that enables you to build AI-powered
  - [n8n](https://n8n.io/)
  - [sim studio](https://www.sim.ai/)
  - [typebot](https://typebot.io/)
- - [Agent Builder](https://platform.openai.com/docs/guides/agent-builder)
+ - [OpenAI - Agent Builder](https://platform.openai.com/docs/guides/agent-builder)
 
