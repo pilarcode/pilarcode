@@ -1,7 +1,8 @@
 # Courses and Certifications
 * [AWS SkillBuilder](https://skillbuilder.aws/)
 * [Google Skills](https://www.skills.google/?locale=es)
-* [Nvidia Academy](https://www.nvidia.com/en-us/training/) https://academy.nvidia.com/en/
+* [Nvidia Academy](https://academy.nvidia.com/en/)
+* [Nvidia Trainnings](https://www.nvidia.com/en-us/training/) 
 * [Aprende Git Branching](https://learngitbranching.js.org/?locale=es_ES)
 * [DeepLearning AI](https://www.deeplearning.ai/)
 * [GitLab University](https://university.gitlab.com) Everything you need to know about DevSecOps.
@@ -14,7 +15,7 @@
 * [LLM Univerisity](https://cohere.com/llmu)
 * [Active Loop Academy](https://learn.activeloop.ai/collections)
 * [Arize University](https://courses.arize.com/)
-* [Databricks Academy](https://www.databricks.com/learn/training/login) https://www.databricks.com/learn/training/certification
+* [Databricks Academy](https://www.databricks.com/learn/training/certification) 
 * [TowardsAI Academy](https://academy.towardsai.net/)
 * [Dair Academy](https://dair-ai.thinkific.com/)
 * [The Open University](https://www.open.edu/openlearn/)
