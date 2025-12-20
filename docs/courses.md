@@ -1,29 +1,29 @@
 # Courses and Certifications
-
+* [AWS SkillBuilder](https://skillbuilder.aws/)
+* [Google Skills](https://www.skills.google/?locale=es)
+* [Nvidia Academy](https://www.nvidia.com/en-us/training/) https://academy.nvidia.com/en/
+* [Aprende Git Branching](https://learngitbranching.js.org/?locale=es_ES)
 * [DeepLearning AI](https://www.deeplearning.ai/)
 * [GitLab University](https://university.gitlab.com) Everything you need to know about DevSecOps.
+* [Skills Github](https://skills.github.com/)
 * [Weaviate Academy](https://weaviate.io/learn)
 * [LangChain Academy](https://academy.langchain.com/)
 * [Huggingface Academy](https://huggingface.co/learn)
 * [Antropic Academy](https://www.anthropic.com/learn)
 * [OpenAI Academy](https://academy.openai.com/)
 * [LLM Univerisity](https://cohere.com/llmu)
+* [Active Loop Academy](https://learn.activeloop.ai/collections)
 * [Arize University](https://courses.arize.com/)
+* [Databricks Academy](https://www.databricks.com/learn/training/login) https://www.databricks.com/learn/training/certification
 * [TowardsAI Academy](https://academy.towardsai.net/)
 * [Dair Academy](https://dair-ai.thinkific.com/)
 * [The Open University](https://www.open.edu/openlearn/)
 * [Camunda Academy](https://academy.camunda.com/)
 * [OpenCV University](https://opencv.org/university/)
-* [Active Loop Academy](https://learn.activeloop.ai/collections)
 * [Landing.ai Academy](https://landing.ai/category/academy)
 * [Apx](https://apxml.com/courses)
 * [The Linux Foundation](https://training.linuxfoundation.org/full-catalog/)
 * [Atlassian](https://community.atlassian.com/learning/catalog)
-* [Skills Github](https://skills.github.com/)
-* [AWS SkillBuilder](https://skillbuilder.aws/)
-* [Google Skills](https://www.skills.google/?locale=es)
-* [Nvidia](https://www.nvidia.com/en-us/training/)
-* [Aprende Git Branching](https://learngitbranching.js.org/?locale=es_ES)
 * [Okta Learning](https://learning.okta.com/) Practical skills in Okta and Auth0
 * [Dynatrace University](https://university.dynatrace.com/learn)
-* [Databricks Academy](https://www.databricks.com/learn/training/login) https://www.databricks.com/learn/training/certification
+
