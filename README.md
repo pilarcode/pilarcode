@@ -1,9 +1,13 @@
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-Certified%20Associate%20GenAI%20%26%20LLMs-76B900?logo=nvidia&logoColor=white)]([https://www.credly.com/badges/99bdb5e8-24b5-4a94-9a63-b085c5fd9d8c/public_url])
+
 ### Hi there 👋
 I'm currently learning and working on projects about mcps and multi-agents, security and  agentic systems 🤖🤖🤖. 
 I'm sharing interesting information about 🧠agents and 🔥 mcps in [my wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Agents-and-Mcps-Wiki).
 
 Enjoy coding!
- 
+
+
+
 <!--
 - 🚀[AI Protocols](https://github.com/pilarcode/pilarcode/blob/main/docs/ai_protocols.md)
   -  🔸 [Mcp Servers, Mcp Inspector, Mcp Marketplaces, etc](https://github.com/pilarcode/pilarcode/blob/main/docs/mcp_servers.md)
