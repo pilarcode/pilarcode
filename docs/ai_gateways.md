@@ -2,11 +2,6 @@
 
 
 # ✨ AI Gateways
-- 🔸 🧠 LLM Gateways
-- 🔸 🛠️ MCP Gateways
-- 🔸 🤖 Agents Gateway
-
-
 - https://pydantic.dev/ai-gateway
 - https://www.litellm.ai/
 - https://gateway.envoyproxy.io/
