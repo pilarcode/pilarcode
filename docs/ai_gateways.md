@@ -10,3 +10,4 @@
 - https://doc.traefik.io/traefik-hub/
 - https://konghq.com/products/kong-gateway
 - https://www.gravitee.io/blog/agent-gateway-introduction
+- https://docs.mulesoft.com/general/learning-map-mulesoft-ai
