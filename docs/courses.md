@@ -2,7 +2,8 @@
 * [AWS SkillBuilder](https://skillbuilder.aws/)
 * [Google Skills](https://www.skills.google/?locale=es)
 * [Nvidia Academy](https://academy.nvidia.com/en/)
-* [Nvidia Trainnings](https://www.nvidia.com/en-us/training/) 
+* [Nvidia Trainnings](https://www.nvidia.com/en-us/training/)
+* [Red Hat Academy](https://www.redhat.com/es/services/training/red-hat-academy)
 * [Aprende Git Branching](https://learngitbranching.js.org/?locale=es_ES)
 * [DeepLearning AI](https://www.deeplearning.ai/)
 * [GitLab University](https://university.gitlab.com) Everything you need to know about DevSecOps.
