@@ -4,8 +4,9 @@ An integrated development environment (IDE) is a software application that helps
 
  🟨 AI IDE
 - [opencode](https://opencode.ai/)
+- [Antigravity](https://antigravity.google/) 
 - [codex](https://openai.com/es-ES/codex/)
-- [Kiro](https://kiro.dev/)  Kiro is an agentic IDE
+- [Kiro](https://kiro.dev/)  
 - [Windsurf](https://windsurf.com/editor) 
 - [Cursor](https://www.cursor.com/)
 - [Replit](https://replit.com/)
