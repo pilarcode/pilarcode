@@ -3,7 +3,8 @@
 An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application.
 
  🟨 AI IDE
-- [Github Spark](https://github.com/features/spark)
+- [opencode](https://opencode.ai/)
+- [codex](https://openai.com/es-ES/codex/)
 - [Kiro](https://kiro.dev/)  Kiro is an agentic IDE
 - [Windsurf](https://windsurf.com/editor) 
 - [Cursor](https://www.cursor.com/)
@@ -11,6 +12,7 @@ An integrated development environment (IDE) is a software application that helps
 - [Blackbox](https://www.blackbox.ai/)
 - [V0 by Vercel](https://v0.dev/)
 - [Firebase Studio](https://idx.google.com/)
+- [Github Spark](https://github.com/features/spark)
 
 
  🟨 AI Cloud IDE
