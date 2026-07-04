@@ -3,6 +3,9 @@
 
 A Terminal User Interface is, in general terms, a GUI in your terminal. 
 
+-[Texto vs. Bubble Tea vs. Ratatui](https://www.youtube.com/watch?v=F2pUWIi4S9E)
+
+
 #### ◻️ Command line tools
 - [Awesome cli apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
 - [frezee](https://github.com/charmbracelet/freeze) Generate images of code and terminal output.
