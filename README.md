@@ -9,7 +9,7 @@ I'm currently working on projects about mcps and multi-agents, security, agentic
 
 I'm sharing interesting information about 🧠AI in [my wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Wiki).
 
-Enjoy Learning!
+Enjoy coding!
 
 
 
