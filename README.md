@@ -5,7 +5,7 @@
 [![Azure](https://img.shields.io/badge/Microsoft-Certified%20Azure%20AI%20Fundamentals-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MadariagaPilar-6865/F85D93A63EB286AB?sharingId=C3953BA4795E437C)
 
 ### Hi there 👋 I'm Pilar 🤖
-AI Architect | Agentic Engineer | AI Engineering 
+AI Architecture | Agentic Engineering | AI Engineering | Software Engineering
 
 🧠 Experience designing and building scalable software solutions.
 - AI Architecture & Agentic Systems
