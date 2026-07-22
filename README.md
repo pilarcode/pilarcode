@@ -4,19 +4,20 @@
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-Certified%20Associate%20GenAI%20%26%20LLMs-76B900?logo=nvidia&logoColor=white)](https://www.credly.com/badges/99bdb5e8-24b5-4a94-9a63-b085c5fd9d8c/public_url)
 [![Azure](https://img.shields.io/badge/Microsoft-Certified%20Azure%20AI%20Fundamentals-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MadariagaPilar-6865/F85D93A63EB286AB?sharingId=C3953BA4795E437C)
 
-### Hi there 👋🤖🤖🤖
-I'm currently working on projects about mcps and multi-agents, security, agentic systems.  
+### Hi there 👋 I'm Pilar 🤖
+AI Architect | Agentic Engineer | AI Engineering 
 
-I'm sharing interesting information about 🧠AI in [my wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Wiki).
+🧠 Experience designing and building scalable software solutions.
+- AI Architecture & Agentic Systems
+- Multi-Agent Systems & MCP
+- Generative AI & LLM applications
+- AI Security and Responsible AI
 
-Enjoy coding!
+I share AI insights, labs, and technical notes in [my wiki](https://github.com/pilarcode/pilarcode/wiki/%F0%9F%A4%96-Wiki).
 
-### Mindset
-- Shared success is more meaningful than individual success 
-- Great leaders don’t create followers; they create more leaders.
-- When people unite with passion, courage, and a shared vision, a team becomes unstoppable.
-- The spirit of excellence lives in everyone who leads, innovates, and gives their best.
-
-Men’s and Women’s football, one La Roja. Different journeys, the same passion, pride, and commitment. United by the same colours, the same dream, and the same heart. Together, we create history. ⚽🔥❤️💛❤️ #LaRoja
-
+🧭 Mindset
+- Shared success is more meaningful than individual success.
+- Great leaders create more leaders.
+- Continuous learning and engineering excellence drive innovation.
+- Enjoy coding!
 
