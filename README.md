@@ -11,7 +11,7 @@ I'm sharing interesting information about 🧠AI in [my wiki](https://github.com
 
 Enjoy coding!
 
-# Core Values
+###
 - Shared success is more meaningful than individual success 
 - Great leaders don’t create followers; they create more leaders.
 - When people unite with passion, courage, and a shared vision, a team becomes unstoppable.
